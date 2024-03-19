@@ -2,6 +2,8 @@
 
 Kölsch is an FPGA computer based on the GateMate A1.
 
+![Kölsch Computer](https://github.com/machdyne/kolsch/blob/d61ca1f63c78e0c4d2555c6f8a0bf3d7d7033afc/kolsch.png)
+
 This repo contains schematics, PCB layouts, pinouts, a 3D-printable case, example gateware and documentation.
 
 Find more information on the [Kölsch product page](https://machdyne.com/product/kolsch-computer/).
