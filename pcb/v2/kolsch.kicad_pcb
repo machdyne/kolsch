@@ -430,7 +430,6 @@
 		(property "Value" "Ferrite_Bead"
 			(at 0.075 0.875 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "73c9dbb6-7e2d-4f0b-afef-b26bdf4feac8")
 			(effects
 				(font
@@ -448,6 +447,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -460,6 +460,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -472,6 +473,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -641,13 +643,12 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 0 1.43 180)
+			(at -1.875 0.025 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "b7d71d2c-adbf-4d96-ae9a-564535c91b01")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -661,6 +662,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -673,6 +675,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -685,6 +688,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -856,7 +860,6 @@
 		(property "Value" "2.2uF"
 			(at 2.025 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a158ba30-0e5d-4b20-b671-7a393c7ec9c1")
 			(effects
 				(font
@@ -874,6 +877,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -886,6 +890,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -898,6 +903,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1069,7 +1075,6 @@
 		(property "Value" "4.7uF"
 			(at -0.025 0.95 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a67fb1f3-f860-4826-983e-ab0736618997")
 			(effects
 				(font
@@ -1087,6 +1092,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1099,6 +1105,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1111,6 +1118,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1281,7 +1289,6 @@
 		(property "Value" "15K"
 			(at 1.5 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "bcc415e8-9d2a-49a9-bac1-6c9c6a52757c")
 			(effects
 				(font
@@ -1299,6 +1306,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1311,6 +1319,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1323,6 +1332,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1494,7 +1504,6 @@
 		(property "Value" "100nF"
 			(at -2.05 0.05 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "0c03b656-b464-44f7-a307-0eee9b8bd6ec")
 			(effects
 				(font
@@ -1512,6 +1521,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1524,6 +1534,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1536,6 +1547,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1707,7 +1719,6 @@
 		(property "Value" "470nF"
 			(at 0 -0.9 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a83bc032-1d67-4ce5-841f-712aa9b5042e")
 			(effects
 				(font
@@ -1725,6 +1736,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1737,6 +1749,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1749,6 +1762,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1920,7 +1934,6 @@
 		(property "Value" "0R"
 			(at 0 0.05 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "659606b5-9c90-40d4-a3de-9b858cd722cb")
 			(effects
 				(font
@@ -1938,6 +1951,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1950,6 +1964,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1962,6 +1977,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2094,7 +2110,6 @@
 		(property "Value" "Ferrite_Bead"
 			(at -0.075 0.9 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "078f2125-9643-4c8b-b892-74fa7c6ba9ca")
 			(effects
 				(font
@@ -2112,6 +2127,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2124,6 +2140,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2136,6 +2153,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2307,7 +2325,6 @@
 		(property "Value" "100nF"
 			(at 2.05 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "8d8f1d32-3e00-48ce-b2df-dafb525b7768")
 			(effects
 				(font
@@ -2325,6 +2342,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2337,6 +2355,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2349,6 +2368,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2520,7 +2540,6 @@
 		(property "Value" "2.2uH"
 			(at -0.025 2.65 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "fcdc18a0-bc7b-4d47-a112-50fbaa184a6d")
 			(effects
 				(font
@@ -2538,6 +2557,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2550,6 +2570,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2562,6 +2583,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2732,7 +2754,6 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "d2c33560-0689-4232-a37a-b3df76245d6a")
 			(effects
 				(font
@@ -2750,6 +2771,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2762,6 +2784,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2774,6 +2797,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2820,7 +2844,12 @@
 			(at 0 0)
 			(size 6.4 6.4)
 			(drill 3.2)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "1")
@@ -2849,7 +2878,6 @@
 		(property "Value" "270R"
 			(at 1.925 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "4ed1254b-d59c-450d-b60f-5e538cdf956b")
 			(effects
 				(font
@@ -2867,6 +2895,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2879,6 +2908,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2891,6 +2921,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3062,7 +3093,6 @@
 		(property "Value" "22uF"
 			(at 0.05 0.9 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a5b86b5f-b947-4028-b476-1a2de622cf04")
 			(effects
 				(font
@@ -3080,6 +3110,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3092,6 +3123,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3104,6 +3136,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3274,7 +3307,6 @@
 		(property "Value" "4K7"
 			(at 1.575 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "b009f1cf-dcdb-4f2d-865f-7570acc64708")
 			(effects
 				(font
@@ -3292,6 +3324,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3304,6 +3337,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3316,6 +3350,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3487,7 +3522,6 @@
 		(property "Value" "20K"
 			(at 1.75 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "0dd89f61-54c0-4bdc-9b10-ea724158eaa5")
 			(effects
 				(font
@@ -3505,6 +3539,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3517,6 +3552,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3529,6 +3565,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3700,7 +3737,6 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "8062b666-cd1f-477d-8ac4-452a8824f1d1")
 			(effects
 				(font
@@ -3718,6 +3754,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3730,6 +3767,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3742,6 +3780,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3788,7 +3827,12 @@
 			(at 0 0)
 			(size 6.4 6.4)
 			(drill 3.2)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "1")
@@ -3815,13 +3859,12 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 0 1.43 180)
+			(at -0.025 0.85 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a67d418b-89b2-4757-b26a-e20cb381d6f5")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -3835,6 +3878,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3847,6 +3891,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3859,6 +3904,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4030,7 +4076,6 @@
 		(property "Value" "LED"
 			(at 0 1.82 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "daf68e57-fc63-4f8d-b7e5-20e4d9228951")
 			(effects
 				(font
@@ -4048,6 +4093,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4060,6 +4106,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4072,6 +4119,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4265,7 +4313,6 @@
 		(property "Value" "100R"
 			(at -1.95 0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "05d84785-263c-4aea-a459-4fb753cba1cb")
 			(effects
 				(font
@@ -4283,6 +4330,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4295,6 +4343,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4307,6 +4356,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4478,7 +4528,6 @@
 		(property "Value" "68R"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "d3c98b7c-2913-497e-bc18-6784edb30702")
 			(effects
 				(font
@@ -4496,6 +4545,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4508,6 +4558,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4520,6 +4571,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4691,7 +4743,6 @@
 		(property "Value" "1K"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "d6622d0c-f962-45ee-b531-03e41a8b3ddd")
 			(effects
 				(font
@@ -4709,6 +4760,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4721,6 +4773,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4733,6 +4786,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4904,7 +4958,6 @@
 		(property "Value" "2.2uF"
 			(at -2 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "bd6e72c9-fc06-4736-a486-e415fbd87d47")
 			(effects
 				(font
@@ -4922,6 +4975,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4934,6 +4988,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4946,6 +5001,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5117,7 +5173,6 @@
 		(property "Value" "22R"
 			(at 1.55 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a049893f-b3c5-4ac9-ac92-53a4bbbe7ec8")
 			(effects
 				(font
@@ -5135,6 +5190,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5147,6 +5203,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5159,6 +5216,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5330,7 +5388,6 @@
 		(property "Value" "USB_A_Stacked"
 			(at 3.5 17 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "355ef807-55d0-4f53-b72b-aa5d54152e62")
 			(effects
 				(font
@@ -5348,6 +5405,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5360,6 +5418,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5372,6 +5431,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5926,7 +5986,12 @@
 			(at 0 0 270)
 			(size 1.5 1.5)
 			(drill 0.92)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 42 "Net-(J2-VBUS1)")
 			(pinfunction "VBUS1")
@@ -5937,7 +6002,12 @@
 			(at 2.5 0 270)
 			(size 1.5 1.5)
 			(drill 0.92)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 17 "/USB1_CONN_DN")
 			(pinfunction "D1-")
@@ -5948,7 +6018,12 @@
 			(at 4.5 0 270)
 			(size 1.5 1.5)
 			(drill 0.92)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 16 "/USB1_CONN_DP")
 			(pinfunction "D1+")
@@ -5959,7 +6034,12 @@
 			(at 7 0 270)
 			(size 1.5 1.5)
 			(drill 0.92)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND1")
@@ -5970,7 +6050,12 @@
 			(at 0 2.62 270)
 			(size 1.5 1.5)
 			(drill 0.92)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 42 "Net-(J2-VBUS1)")
 			(pinfunction "VBUS2")
@@ -5981,7 +6066,12 @@
 			(at 2.5 2.62 270)
 			(size 1.5 1.5)
 			(drill 0.92)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 205 "/USB2_CONN_DN")
 			(pinfunction "D2-")
@@ -5992,7 +6082,12 @@
 			(at 4.5 2.62 270)
 			(size 1.5 1.5)
 			(drill 0.92)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 206 "/USB2_CONN_DP")
 			(pinfunction "D2+")
@@ -6003,7 +6098,12 @@
 			(at 7 2.62 270)
 			(size 1.5 1.5)
 			(drill 0.92)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND2")
@@ -6014,7 +6114,12 @@
 			(at -3.07 -0.35 270)
 			(size 3 3)
 			(drill 2.3)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "Shield")
@@ -6025,7 +6130,12 @@
 			(at -3.07 5.33 270)
 			(size 3 3)
 			(drill 2.3)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "Shield")
@@ -6036,7 +6146,12 @@
 			(at 10.07 -0.35 270)
 			(size 3 3)
 			(drill 2.3)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "Shield")
@@ -6047,7 +6162,12 @@
 			(at 10.07 5.33 270)
 			(size 3 3)
 			(drill 2.3)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "Shield")
@@ -6087,7 +6207,6 @@
 		(property "Value" "2.2uF"
 			(at 2.025 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a7b96dfb-9947-426f-b8ba-129ba03ed5fa")
 			(effects
 				(font
@@ -6105,6 +6224,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6117,6 +6237,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6129,6 +6250,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6300,11 +6422,10 @@
 		(property "Value" "100nF"
 			(at 0 1.43 -90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "5d1c4592-d4e9-4adf-985f-19747df4f9e6")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6318,6 +6439,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6330,6 +6452,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6342,6 +6465,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6513,7 +6637,6 @@
 		(property "Value" "10pF"
 			(at -1.8 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "04c0e473-ba5a-451c-9685-5e4359172f08")
 			(effects
 				(font
@@ -6531,6 +6654,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6543,6 +6667,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6555,6 +6680,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6725,7 +6851,6 @@
 		(property "Value" "4.7uF"
 			(at 0.025 1.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "f2f4ffae-8c90-424d-bd79-45203bdcca17")
 			(effects
 				(font
@@ -6743,6 +6868,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6755,6 +6881,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6767,6 +6894,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6935,13 +7063,12 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 1.43 180)
+			(at -0.025 0.825 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "09d95a5e-e5ce-4d8c-b771-ce03219e8b52")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6955,6 +7082,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6967,6 +7095,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6979,6 +7108,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7150,7 +7280,6 @@
 		(property "Value" "536R"
 			(at -2.075 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "18518ed7-72aa-4278-8982-2096f8d14dda")
 			(effects
 				(font
@@ -7168,6 +7297,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7180,6 +7310,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7192,6 +7323,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7363,7 +7495,6 @@
 		(property "Value" "27R"
 			(at -1.65 -0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "f3444cc9-a153-4819-bc82-e22984626c24")
 			(effects
 				(font
@@ -7381,6 +7512,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7393,6 +7525,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7405,6 +7538,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7576,7 +7710,6 @@
 		(property "Value" "22uF"
 			(at -1.825 0.05 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "77636b1a-03bd-4d68-99dd-0cd5e337b793")
 			(effects
 				(font
@@ -7594,6 +7727,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7606,6 +7740,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7618,6 +7753,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7788,7 +7924,6 @@
 		(property "Value" "1K"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "32e5c418-d502-4009-b39b-3d8d38141ad1")
 			(effects
 				(font
@@ -7806,6 +7941,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7818,6 +7954,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7830,6 +7967,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8001,7 +8139,6 @@
 		(property "Value" "100R"
 			(at 2.025 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "ec6ee1f7-96cc-40c8-8b45-c6cce2b8acd1")
 			(effects
 				(font
@@ -8019,6 +8156,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8031,6 +8169,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8043,6 +8182,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8214,7 +8354,6 @@
 		(property "Value" "100nF"
 			(at 2.05 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "e01e8efd-2b45-4162-88cd-f986357787d1")
 			(effects
 				(font
@@ -8232,6 +8371,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8244,6 +8384,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8256,6 +8397,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8427,7 +8569,6 @@
 		(property "Value" "22R"
 			(at 1.5 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "5a2ebff2-5da0-41dc-a96f-386efb8ed6c9")
 			(effects
 				(font
@@ -8445,6 +8586,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8457,6 +8599,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8469,6 +8612,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8640,7 +8784,6 @@
 		(property "Value" "10uF"
 			(at -0.05 0.95 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "439ecb95-b4cb-46a4-b81e-ba5766c3c77e")
 			(effects
 				(font
@@ -8658,6 +8801,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8670,6 +8814,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8682,6 +8827,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8852,7 +8998,6 @@
 		(property "Value" "TLV62569DDC"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "e367eebe-c117-4729-a481-0d394d5b4058")
 			(effects
 				(font
@@ -8870,6 +9015,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8882,6 +9028,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8894,6 +9041,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9137,7 +9285,6 @@
 		(property "Value" "10uF"
 			(at -1.825 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "bf27f8d7-2e72-4ba8-a66f-d681dabdfcbe")
 			(effects
 				(font
@@ -9155,6 +9302,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9167,6 +9315,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9179,6 +9328,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9350,7 +9500,6 @@
 		(property "Value" "100nF"
 			(at 2.05 -0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "7faeab2c-176e-4941-bc8b-bef11a6a9b37")
 			(effects
 				(font
@@ -9368,6 +9517,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9380,6 +9530,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9392,6 +9543,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9561,9 +9713,8 @@
 			)
 		)
 		(property "Value" "200K"
-			(at 1.925 0.025 0)
+			(at -0.05 -0.85 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "5167aa3c-0788-4c0b-89a9-6fb859431354")
 			(effects
 				(font
@@ -9581,6 +9732,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9593,6 +9745,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9605,6 +9758,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9776,7 +9930,6 @@
 		(property "Value" "15pF"
 			(at -0.025 0.9 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "c6a526a2-f936-4712-bbb8-9109826075ed")
 			(effects
 				(font
@@ -9794,6 +9947,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9806,6 +9960,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9818,6 +9973,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9989,7 +10145,6 @@
 		(property "Value" "4K7"
 			(at 1.65 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "187a8fb6-adbb-4928-8a83-e7d30a4858fb")
 			(effects
 				(font
@@ -10007,6 +10162,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10019,6 +10175,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10031,6 +10188,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10202,7 +10360,6 @@
 		(property "Value" "2.2uF"
 			(at 1.95 -0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "3edd97f7-3bd3-48e1-9141-020de935a04c")
 			(effects
 				(font
@@ -10220,6 +10377,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10232,6 +10390,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10244,6 +10403,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10415,7 +10575,6 @@
 		(property "Value" "2.2uF"
 			(at 2.05 -0.11 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "dc354567-6673-495a-8a2b-36419eccbada")
 			(effects
 				(font
@@ -10433,6 +10592,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10445,6 +10605,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10457,6 +10618,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10628,7 +10790,6 @@
 		(property "Value" "2K2"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "e7f238b0-aecc-4276-98be-6bfcf09b129b")
 			(effects
 				(font
@@ -10646,6 +10807,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10658,6 +10820,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10670,6 +10833,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10841,7 +11005,6 @@
 		(property "Value" "1K"
 			(at 1.45 0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "680a42cd-d44d-4ee5-847e-5629bc621284")
 			(effects
 				(font
@@ -10859,6 +11022,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10871,6 +11035,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10883,6 +11048,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11054,11 +11220,10 @@
 		(property "Value" "100nF"
 			(at 0 1.43 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "f7f8fd3e-c27b-40e7-85b8-59b47f580bd9")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -11072,6 +11237,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11084,6 +11250,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11096,6 +11263,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11267,7 +11435,6 @@
 		(property "Value" "470nF"
 			(at 2.15 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "67ae7318-4c17-4253-be54-c9952b9ecc43")
 			(effects
 				(font
@@ -11285,6 +11452,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11297,6 +11465,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11309,6 +11478,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11480,7 +11650,6 @@
 		(property "Value" "470nF"
 			(at 2.05 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "e2ba12d9-ec78-46ad-a534-cdbe34d74488")
 			(effects
 				(font
@@ -11498,6 +11667,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11510,6 +11680,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11522,6 +11693,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11693,7 +11865,6 @@
 		(property "Value" "CCGM1A1"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "23df352d-6fd2-401f-a594-972ed248ed8b")
 			(effects
 				(font
@@ -11711,6 +11882,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11723,6 +11895,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11735,6 +11908,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14924,7 +15098,6 @@
 		(property "Value" "200K"
 			(at 0 -0.95 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "744f9a6f-94f8-4a68-8c00-810564fa4223")
 			(effects
 				(font
@@ -14942,6 +15115,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14954,6 +15128,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14966,6 +15141,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15137,7 +15313,6 @@
 		(property "Value" "2.2uF"
 			(at -1.95 0 -90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "4535fffd-e1e6-4da0-8219-dc2a4b8feb38")
 			(effects
 				(font
@@ -15155,6 +15330,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15167,6 +15343,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15179,6 +15356,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15350,7 +15528,6 @@
 		(property "Value" "20K"
 			(at 1.725 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "8e1c86a2-ecc2-457d-aebb-725ac8e2d573")
 			(effects
 				(font
@@ -15368,6 +15545,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15380,6 +15558,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15392,6 +15571,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15563,7 +15743,6 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "9df49763-afe2-42c1-915d-8144aa5c37fc")
 			(effects
 				(font
@@ -15581,6 +15760,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15593,6 +15773,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15605,6 +15786,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15651,7 +15833,12 @@
 			(at 0 0)
 			(size 6.4 6.4)
 			(drill 3.2)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "1")
@@ -15680,7 +15867,6 @@
 		(property "Value" "TYPE-C-31-M-12-FIXED"
 			(at 0 5.1 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "4a83d10a-4f15-465c-8d87-84d54dbf685a")
 			(effects
 				(font
@@ -15698,6 +15884,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15710,6 +15897,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15722,6 +15910,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15923,14 +16112,24 @@
 			(at -2.89 -2.6 180)
 			(size 0.65 0.65)
 			(drill 0.65)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(uuid "eb855c48-2021-4341-8308-fe2bd3e31f8a")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.89 -2.6 180)
 			(size 0.65 0.65)
 			(drill 0.65)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(uuid "4d47281f-7539-428a-9178-00bb3e0b1f0f")
 		)
 		(pad "A1" smd rect
@@ -16081,7 +16280,12 @@
 			(at -4.32 -3.13 180)
 			(size 1.2 2.3)
 			(drill oval 0.6 1.7)
-			(layers "*.Cu" "*.Mask" "F.Paste")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu" "F.Paste"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "SHIELD")
@@ -16092,7 +16296,12 @@
 			(at 4.32 -3.13 180)
 			(size 1.2 2.3)
 			(drill oval 0.6 1.7)
-			(layers "*.Cu" "*.Mask" "F.Paste")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu" "F.Paste"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "SHIELD")
@@ -16103,7 +16312,12 @@
 			(at -4.32 1.05 180)
 			(size 2 2.6)
 			(drill oval 0.6 1.2)
-			(layers "*.Cu" "*.Mask" "F.Paste")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu" "F.Paste"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "SHIELD")
@@ -16114,7 +16328,12 @@
 			(at 4.32 1.05 180)
 			(size 2 2.6)
 			(drill oval 0.6 1.2)
-			(layers "*.Cu" "*.Mask" "F.Paste")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu" "F.Paste"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "SHIELD")
@@ -16154,7 +16373,6 @@
 		(property "Value" "5K1"
 			(at 1.7 0.05 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "67a87163-9aed-4269-8f4e-a87c39cf6483")
 			(effects
 				(font
@@ -16172,6 +16390,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16184,6 +16403,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16196,6 +16416,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16367,7 +16588,6 @@
 		(property "Value" "100nF"
 			(at 0.05 -0.85 -90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "940a0557-f17b-47c6-a82a-acfcd27db405")
 			(effects
 				(font
@@ -16385,6 +16605,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16397,6 +16618,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16409,6 +16631,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16580,7 +16803,6 @@
 		(property "Value" "47K"
 			(at 1.7 0.05 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "d968e390-e78b-4c7b-a254-de747b721cc2")
 			(effects
 				(font
@@ -16598,6 +16820,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16610,6 +16833,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16622,6 +16846,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16793,7 +17018,6 @@
 		(property "Value" "20K"
 			(at 1.675 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "accc7ba5-5c2c-4adb-9563-5f9a4fcfb548")
 			(effects
 				(font
@@ -16811,6 +17035,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16823,6 +17048,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16835,6 +17061,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17006,7 +17233,6 @@
 		(property "Value" "10uF"
 			(at -2.075 0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "f79d082b-ec6e-4d43-a080-0b3e6a3a3453")
 			(effects
 				(font
@@ -17024,6 +17250,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17036,6 +17263,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17048,6 +17276,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17218,7 +17447,6 @@
 		(property "Value" "TLV62569DDC"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "60d72e1e-caa0-448a-9876-8f9b880a96af")
 			(effects
 				(font
@@ -17236,6 +17464,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17248,6 +17477,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17260,6 +17490,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17503,7 +17734,6 @@
 		(property "Value" "5K1"
 			(at 1.7 0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "d7280d79-8273-423f-b459-47331906bfd7")
 			(effects
 				(font
@@ -17521,6 +17751,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17533,6 +17764,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17545,6 +17777,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17716,7 +17949,6 @@
 		(property "Value" "TP_PWR1V1"
 			(at 0.5 -2.8 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "5fdea74d-5725-4b8a-8038-a359101e6981")
 			(effects
 				(font
@@ -17734,6 +17966,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17746,6 +17979,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17758,6 +17992,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17804,7 +18039,12 @@
 			(at 0 0)
 			(size 1 1)
 			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 128 "/PWR1V1")
 			(pinfunction "1")
@@ -17833,7 +18073,6 @@
 		(property "Value" "1K"
 			(at -1.8 -0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "8375956f-53a9-4b46-a2ef-db699749227c")
 			(effects
 				(font
@@ -17851,6 +18090,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17863,6 +18103,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17875,6 +18116,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18046,7 +18288,6 @@
 		(property "Value" "2.2uH"
 			(at 0.075 2.6 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "ad4ebb76-2ac5-417d-bae6-4d7d86d7f5ca")
 			(effects
 				(font
@@ -18064,6 +18305,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18076,6 +18318,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18088,6 +18331,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18258,7 +18502,6 @@
 		(property "Value" "2.2uF"
 			(at 1.975 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a9a9a5bd-ba54-4ab0-aa84-84ed9f84678d")
 			(effects
 				(font
@@ -18276,6 +18519,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18288,6 +18532,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18300,6 +18545,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18471,7 +18717,6 @@
 		(property "Value" "1uF"
 			(at 0.025 0.875 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "655a266a-c711-4425-bd5d-448cf7698ab8")
 			(effects
 				(font
@@ -18489,6 +18734,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18501,6 +18747,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18513,6 +18760,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18683,7 +18931,6 @@
 		(property "Value" "2K2"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "e3f7080a-507f-4464-ae64-77d970d559da")
 			(effects
 				(font
@@ -18701,6 +18948,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18713,6 +18961,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18725,6 +18974,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18896,7 +19146,6 @@
 		(property "Value" "100nF"
 			(at 0.025 -0.875 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "3cd49eac-03d4-4b1a-8064-1698b61a637b")
 			(effects
 				(font
@@ -18914,6 +19163,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18926,6 +19176,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18938,6 +19189,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19109,7 +19361,6 @@
 		(property "Value" "100nF"
 			(at 2.15 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "6a561b10-18a9-4872-b7b2-ca3811dad74e")
 			(effects
 				(font
@@ -19127,6 +19378,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19139,6 +19391,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19151,6 +19404,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19319,9 +19573,8 @@
 			)
 		)
 		(property "Value" "LSF0108PWR"
-			(at 0 4.2 0)
+			(at 0 3.85 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "1638aac1-c27d-48f7-a32a-98ef3155e1ae")
 			(effects
 				(font
@@ -19339,6 +19592,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19351,6 +19605,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19363,6 +19618,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19745,7 +20001,6 @@
 		(property "Value" "1uF"
 			(at 0 0.9 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "6886cb9b-1738-4682-992e-eb54c548a941")
 			(effects
 				(font
@@ -19763,6 +20018,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19775,6 +20031,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19787,6 +20044,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19958,7 +20216,6 @@
 		(property "Value" "15K"
 			(at 1.525 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "18171496-973c-43e6-9b28-3bc9a8b343a5")
 			(effects
 				(font
@@ -19976,6 +20233,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19988,6 +20246,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20000,6 +20259,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20171,7 +20431,6 @@
 		(property "Value" "100nF"
 			(at -2 0.025 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "46285b65-eb34-4278-8a76-31242d34d8b9")
 			(effects
 				(font
@@ -20189,6 +20448,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20201,6 +20461,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20213,6 +20474,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20384,7 +20646,6 @@
 		(property "Value" "470nF"
 			(at 2.125 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "ea403598-5086-4175-981c-a1b1169f9b4e")
 			(effects
 				(font
@@ -20402,6 +20663,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20414,6 +20676,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20426,6 +20689,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20597,7 +20861,6 @@
 		(property "Value" "10K"
 			(at 0 0.9 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "fa6bb27e-ec54-4477-ba21-f20eedda7aad")
 			(effects
 				(font
@@ -20615,6 +20878,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20627,6 +20891,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20639,6 +20904,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20810,7 +21076,6 @@
 		(property "Value" "10pF"
 			(at -1.9 0.05 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a5a3a5bc-3124-437e-b021-f49968a1a63c")
 			(effects
 				(font
@@ -20828,6 +21093,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20840,6 +21106,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20852,6 +21119,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21022,7 +21290,6 @@
 		(property "Value" "15K"
 			(at 1.475 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "570c50a1-10da-4924-90ed-47791ac7ba5b")
 			(effects
 				(font
@@ -21040,6 +21307,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21052,6 +21320,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21064,6 +21333,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21235,7 +21505,6 @@
 		(property "Value" "1uF"
 			(at 1.6 0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a84f3a0a-e8b3-4059-9432-4dd2a1a9b33b")
 			(effects
 				(font
@@ -21253,6 +21522,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21265,6 +21535,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21277,6 +21548,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21448,7 +21720,6 @@
 		(property "Value" "NCP164ASN180T1G"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "9a6e9a0e-f060-4e0a-b90b-e6f56de16dfe")
 			(effects
 				(font
@@ -21466,6 +21737,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21478,6 +21750,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21490,6 +21763,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21722,7 +21996,6 @@
 		(property "Value" "TP_PWR1V8"
 			(at -1.125 -0.125 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "77eb9856-0984-475a-8df5-6abc357bed54")
 			(effects
 				(font
@@ -21740,6 +22013,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21752,6 +22026,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21764,6 +22039,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21810,7 +22086,12 @@
 			(at 0 0 180)
 			(size 1 1)
 			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 10 "/PWR1V8")
 			(pinfunction "1")
@@ -21839,7 +22120,6 @@
 		(property "Value" "2.2uF"
 			(at 0 0.975 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "98ec41de-a6b1-4bbe-a9a7-17a0c703cdf2")
 			(effects
 				(font
@@ -21857,6 +22137,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21869,6 +22150,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21881,6 +22163,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22050,13 +22333,12 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 1.43 180)
+			(at -0.025 0.825 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "256d5ab5-2c10-4845-b226-8f8dab495149")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -22070,6 +22352,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22082,6 +22365,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22094,6 +22378,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22265,7 +22550,6 @@
 		(property "Value" "10pF"
 			(at -1.95 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "289ed696-263a-4552-be94-11b300ae1f0c")
 			(effects
 				(font
@@ -22283,6 +22567,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22295,6 +22580,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22307,6 +22593,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22477,7 +22764,6 @@
 		(property "Value" "2.2uH"
 			(at -0.05 2.625 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "9f4ee9a0-ba54-43be-9090-c129308f30df")
 			(effects
 				(font
@@ -22495,6 +22781,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22507,6 +22794,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22519,6 +22807,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22689,7 +22978,6 @@
 		(property "Value" "1uF"
 			(at 0.025 0.9 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "174093bf-01dc-48f4-b74b-9956727dc123")
 			(effects
 				(font
@@ -22707,6 +22995,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22719,6 +23008,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22731,6 +23021,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22901,7 +23192,6 @@
 		(property "Value" "PMOD-Device-x2-Type-1A-GPIO"
 			(at -5.65 15.47 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "7e4a4480-70b0-41b8-adba-dbf097ac205e")
 			(effects
 				(font
@@ -22919,6 +23209,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22931,6 +23222,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -22943,6 +23235,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -23797,7 +24090,12 @@
 			(at 0 12.7 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 28 "/PMOD_A1C")
 			(pinfunction "IOA0")
@@ -23808,7 +24106,12 @@
 			(at 0 10.16 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 23 "/PMOD_A2C")
 			(pinfunction "IOA1")
@@ -23819,7 +24122,12 @@
 			(at 0 7.62 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 25 "/PMOD_A3C")
 			(pinfunction "IOA2")
@@ -23830,7 +24138,12 @@
 			(at 0 5.08 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 27 "/PMOD_A4C")
 			(pinfunction "IOA3")
@@ -23841,7 +24154,12 @@
 			(at 0 2.54 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -23852,7 +24170,12 @@
 			(at 0 0 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 12 "/PWR3V3")
 			(pinfunction "VCC")
@@ -23863,7 +24186,12 @@
 			(at -2.54 12.7 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 21 "/PMOD_A7C")
 			(pinfunction "IOB0")
@@ -23874,7 +24202,12 @@
 			(at -2.54 10.16 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 22 "/PMOD_A8C")
 			(pinfunction "IOB1")
@@ -23885,7 +24218,12 @@
 			(at -2.54 7.62 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 24 "/PMOD_A9C")
 			(pinfunction "IOB2")
@@ -23896,7 +24234,12 @@
 			(at -2.54 5.08 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 26 "/PMOD_A10C")
 			(pinfunction "IOB3")
@@ -23907,7 +24250,12 @@
 			(at -2.54 2.54 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -23918,7 +24266,12 @@
 			(at -2.54 0 180)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 12 "/PWR3V3")
 			(pinfunction "VCC")
@@ -23958,7 +24311,6 @@
 		(property "Value" "2.2uF"
 			(at -2.05 0 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "d0e1e253-937c-4a5d-b53c-905db12395f4")
 			(effects
 				(font
@@ -23976,6 +24328,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23989,6 +24342,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24002,6 +24356,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24174,7 +24529,6 @@
 		(property "Value" "4K7"
 			(at 1.6 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "42f5c8fb-572b-4fdc-a56a-aedc7d2bfe98")
 			(effects
 				(font
@@ -24192,6 +24546,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24204,6 +24559,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24216,6 +24572,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24384,14 +24741,13 @@
 				)
 			)
 		)
-		(property "Value" "1R"
-			(at 0 1.43 180)
+		(property "Value" "22R"
+			(at 1.4 0.025 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "044b043a-5715-4d04-8fc7-92cb75067133")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -24405,6 +24761,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24417,6 +24774,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24429,6 +24787,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24597,14 +24956,13 @@
 				)
 			)
 		)
-		(property "Value" "10nF"
-			(at 0 1.43 90)
+		(property "Value" "100nF"
+			(at -0.05 0.975 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "af61b53f-fbce-41bf-9a4b-4c20c8d2c6e4")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -24618,6 +24976,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24630,6 +24989,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24642,6 +25002,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24813,7 +25174,6 @@
 		(property "Value" "RP2040"
 			(at 0 4.15 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "20f13cfb-254e-4f28-9ef0-db08922bfb4d")
 			(effects
 				(font
@@ -24831,6 +25191,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24843,6 +25204,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24855,6 +25217,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -25674,7 +26037,11 @@
 			(at -1.275 -1.275)
 			(size 0.6 0.6)
 			(drill 0.35)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -25685,7 +26052,11 @@
 			(at -1.275 0)
 			(size 0.6 0.6)
 			(drill 0.35)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -25696,7 +26067,11 @@
 			(at -1.275 1.275)
 			(size 0.6 0.6)
 			(drill 0.35)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -25707,7 +26082,11 @@
 			(at 0 -1.275)
 			(size 0.6 0.6)
 			(drill 0.35)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -25718,7 +26097,11 @@
 			(at 0 0)
 			(size 0.6 0.6)
 			(drill 0.35)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -25739,7 +26122,11 @@
 			(at 0 1.275)
 			(size 0.6 0.6)
 			(drill 0.35)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -25750,7 +26137,11 @@
 			(at 1.275 -1.275)
 			(size 0.6 0.6)
 			(drill 0.35)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -25761,7 +26152,11 @@
 			(at 1.275 0)
 			(size 0.6 0.6)
 			(drill 0.35)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -25772,7 +26167,11 @@
 			(at 1.275 1.275)
 			(size 0.6 0.6)
 			(drill 0.35)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
@@ -25812,7 +26211,6 @@
 		(property "Value" "AudioJack4"
 			(at -0.175 0.125 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "242d0b81-a006-4d0c-b6e7-36d1b92c7ea8")
 			(effects
 				(font
@@ -25830,6 +26228,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -25842,6 +26241,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -25854,6 +26254,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26139,14 +26540,24 @@
 			(at -4.775 0 180)
 			(size 1.5 1.5)
 			(drill 1.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(uuid "d6534368-ea08-42d3-b89d-ef717da059b2")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.225 0 180)
 			(size 1.5 1.5)
 			(drill 1.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(uuid "a7e939db-3f3d-4740-a1e3-fcd74f16bc7c")
 		)
 		(pad "R1" smd rect
@@ -26214,7 +26625,6 @@
 		(property "Value" "68R"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "b4efb703-2cf6-4358-8111-1c93ad3f410b")
 			(effects
 				(font
@@ -26232,6 +26642,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26244,6 +26655,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26256,6 +26668,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26425,9 +26838,8 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at -2.425 0.075 180)
+			(at 0 -0.9 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "534a68e3-bb04-4abf-88ec-2544781ea142")
 			(effects
 				(font
@@ -26445,6 +26857,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26458,6 +26871,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26471,6 +26885,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -26643,7 +27058,6 @@
 		(property "Value" "20K"
 			(at 1.725 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "4b8bfe5b-f4f5-4502-8717-2ace0debeae2")
 			(effects
 				(font
@@ -26661,6 +27075,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26673,6 +27088,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26685,6 +27101,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26856,7 +27273,6 @@
 		(property "Value" "270R"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "3877db33-487d-4216-8e28-55b65aebfe75")
 			(effects
 				(font
@@ -26874,6 +27290,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26886,6 +27303,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26898,6 +27316,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27069,7 +27488,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.85 -90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "90d1f9fd-0492-4951-8147-0fddf7fed01f")
 			(effects
 				(font
@@ -27087,6 +27505,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27099,6 +27518,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27111,6 +27531,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27282,7 +27703,6 @@
 		(property "Value" "2K"
 			(at -1.9 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "22db27d8-84a6-44db-93a4-fe2b9d648b6b")
 			(effects
 				(font
@@ -27300,6 +27720,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27312,6 +27733,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27324,6 +27746,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27495,7 +27918,6 @@
 		(property "Value" "TP_PWR2V5"
 			(at 0.0625 -3 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a3cd7007-e7d8-4c95-87dd-48c076ffce46")
 			(effects
 				(font
@@ -27513,6 +27935,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27525,6 +27948,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27537,6 +27961,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27583,7 +28008,12 @@
 			(at 0 0)
 			(size 1 1)
 			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 4 "/PWR2V5")
 			(pinfunction "1")
@@ -27612,7 +28042,6 @@
 		(property "Value" "100nF"
 			(at 0.0375 -0.875 -90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "37e985ca-d558-4871-a35b-7da8988878b4")
 			(effects
 				(font
@@ -27630,6 +28059,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27642,6 +28072,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27654,6 +28085,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27825,7 +28257,6 @@
 		(property "Value" "470nF"
 			(at 2.025 -0.05 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "e4bb740d-61d8-459c-977e-741496346312")
 			(effects
 				(font
@@ -27843,6 +28274,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27855,6 +28287,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27867,6 +28300,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28038,7 +28472,6 @@
 		(property "Value" "44K2"
 			(at 2 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "187c7033-84a8-470b-871e-81ffe3f265a7")
 			(effects
 				(font
@@ -28056,6 +28489,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28068,6 +28502,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28080,6 +28515,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28251,7 +28687,6 @@
 		(property "Value" "4K7"
 			(at 1.575 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "edffda4f-16e9-499f-b53d-cf886568be55")
 			(effects
 				(font
@@ -28269,6 +28704,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28281,6 +28717,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28293,6 +28730,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28464,7 +28902,6 @@
 		(property "Value" "0R"
 			(at 0 0.025 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "38b9adfa-18d2-4417-95f9-47c14abe57ef")
 			(effects
 				(font
@@ -28482,6 +28919,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28494,6 +28932,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28506,6 +28945,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28638,7 +29078,6 @@
 		(property "Value" "470nF"
 			(at -2.05 -0.075 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "dc901f89-3fb4-4e14-97ea-458822e75dd6")
 			(effects
 				(font
@@ -28656,6 +29095,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28668,6 +29108,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28680,6 +29121,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28851,7 +29293,6 @@
 		(property "Value" "270R"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "4597041e-da16-45c5-af34-497137304f2b")
 			(effects
 				(font
@@ -28869,6 +29310,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28881,6 +29323,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28893,6 +29336,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29064,7 +29508,6 @@
 		(property "Value" "100nF"
 			(at 2.075 0.075 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "10e35a14-e926-4ab7-9302-09bdb9209b70")
 			(effects
 				(font
@@ -29082,6 +29525,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29094,6 +29538,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29106,6 +29551,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29277,7 +29723,6 @@
 		(property "Value" "22R"
 			(at 1.475 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "f6d6514f-0ba5-4b69-b64e-8a895120c33c")
 			(effects
 				(font
@@ -29295,6 +29740,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29307,6 +29753,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29319,6 +29766,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29488,7 +29936,6 @@
 		(property "Value" "BOOT"
 			(at 0 -0.05 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "99e37c54-6570-4252-a952-d6b4c0b04a31")
 			(effects
 				(font
@@ -29506,6 +29953,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29518,6 +29966,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29530,6 +29979,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29628,7 +30078,6 @@
 		(property "Value" "TP_PWR3V3"
 			(at 0.15 -3.1 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "93ab85bf-184c-48af-85e1-195ebb3aa31f")
 			(effects
 				(font
@@ -29646,6 +30095,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29658,6 +30108,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29670,6 +30121,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29716,7 +30168,12 @@
 			(at 0 0)
 			(size 1 1)
 			(drill 0.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 12 "/PWR3V3")
 			(pinfunction "1")
@@ -29745,7 +30202,6 @@
 		(property "Value" "470nF"
 			(at -2.05 -0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "9a55b6c6-8c5a-4d3c-9417-69d4c72ce7cf")
 			(effects
 				(font
@@ -29763,6 +30219,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29775,6 +30232,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29787,6 +30245,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29958,7 +30417,6 @@
 		(property "Value" "33R"
 			(at 1.875 0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "ccaac26e-99df-4d0b-aaa1-f0ecb9fc5341")
 			(effects
 				(font
@@ -29976,6 +30434,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29988,6 +30447,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30000,6 +30460,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30171,7 +30632,6 @@
 		(property "Value" "AT25FF321A-SSHN-B"
 			(at -2.45 0.3 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "6b82f61e-4038-4633-af8f-7e2a38ee9003")
 			(effects
 				(font
@@ -30189,6 +30649,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30201,6 +30662,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30213,6 +30675,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30474,13 +30937,12 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 0 1.43 180)
+			(at -0.075 0.875 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "b7b04e51-baec-4b8e-8310-07e258e6d3f7")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -30494,6 +30956,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30506,6 +30969,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30518,6 +30982,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30689,7 +31154,6 @@
 		(property "Value" "4.7uF"
 			(at -0.025 0.975 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "6ea6754a-673f-4d3b-8194-5925cb4d9a8e")
 			(effects
 				(font
@@ -30707,6 +31171,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30719,6 +31184,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30731,6 +31197,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30901,7 +31368,6 @@
 		(property "Value" "470nF"
 			(at 2.025 0.03 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "85e7ceee-14d9-4a5e-847e-2f07fb9e6dfc")
 			(effects
 				(font
@@ -30919,6 +31385,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30931,6 +31398,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -30943,6 +31411,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31114,7 +31583,6 @@
 		(property "Value" "536R"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "c88ea9e3-7233-41f4-bbf5-585994907dae")
 			(effects
 				(font
@@ -31132,6 +31600,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31144,6 +31613,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31156,6 +31626,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31327,7 +31798,6 @@
 		(property "Value" "470nF"
 			(at 2.05 0.05 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "c3f32df8-a325-423a-a5ed-2b003f442bcb")
 			(effects
 				(font
@@ -31345,6 +31815,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31357,6 +31828,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31369,6 +31841,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31540,7 +32013,6 @@
 		(property "Value" "1K"
 			(at -0.05 0.875 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "fd2ed5d4-5641-4124-b345-15d8312794a7")
 			(effects
 				(font
@@ -31558,6 +32030,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31570,6 +32043,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31582,6 +32056,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31751,7 +32226,6 @@
 		(property "Value" "MICROSD"
 			(at 4.3 -10.4 0)
 			(layer "Dwgs.User")
-			(hide yes)
 			(uuid "cc3acb60-7622-467d-ba5e-f65ac8d311b1")
 			(effects
 				(font
@@ -31769,6 +32243,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31781,6 +32256,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31793,6 +32269,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -31997,14 +32474,22 @@
 			(at -4.93 0)
 			(size 1 1)
 			(drill 1)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(uuid "ec096e04-47c6-4156-baa4-929a9a47a106")
 		)
 		(pad "" np_thru_hole circle
 			(at 3.05 0)
 			(size 1 1)
 			(drill 1)
-			(layers "*.Cu")
+			(layers "*.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu" "In9.Cu"
+				"In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu"
+				"In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu"
+				"In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+			)
 			(uuid "2fa68a8e-26a6-4f06-820e-e2d578a19d32")
 		)
 		(pad "1" smd rect
@@ -32157,7 +32642,6 @@
 		(property "Value" "2.2uF"
 			(at 2.025 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "4b150652-df76-4354-aa6a-d73457ee06cd")
 			(effects
 				(font
@@ -32175,6 +32659,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32187,6 +32672,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32199,6 +32685,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32370,7 +32857,6 @@
 		(property "Value" "1uF"
 			(at 1.625 -0.05 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "ae74398b-09ac-4711-a270-e0f478c4f9ca")
 			(effects
 				(font
@@ -32388,6 +32874,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32400,6 +32887,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32412,6 +32900,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32583,7 +33072,6 @@
 		(property "Value" "22R"
 			(at 1.55 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "9ee8745f-7fce-406a-8dd1-071d84d2c310")
 			(effects
 				(font
@@ -32601,6 +33089,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32613,6 +33102,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32625,6 +33115,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32796,7 +33287,6 @@
 		(property "Value" "200K"
 			(at -2 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "5f2b26bb-161c-4724-9ae0-968eb5f0fd83")
 			(effects
 				(font
@@ -32814,6 +33304,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32826,6 +33317,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -32838,6 +33330,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33009,7 +33502,6 @@
 		(property "Value" "470nF"
 			(at 2 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "7bca4682-5443-4e0c-b8b8-142f1fa3cb0e")
 			(effects
 				(font
@@ -33027,6 +33519,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33039,6 +33532,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33051,6 +33545,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33222,7 +33717,6 @@
 		(property "Value" "Ferrite_Bead"
 			(at -0.025 0.975 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "e57277a6-212c-4a2c-a24f-ec57b6721d3d")
 			(effects
 				(font
@@ -33240,6 +33734,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33252,6 +33747,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33264,6 +33760,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33435,7 +33932,6 @@
 		(property "Value" "10uF"
 			(at -1.95 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "8e13a9de-47ee-4c20-8a59-7ba87a714e3b")
 			(effects
 				(font
@@ -33453,6 +33949,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33465,6 +33962,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33477,6 +33975,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33647,7 +34146,6 @@
 		(property "Value" "270R"
 			(at -2.25 0.075 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "88a1a5b0-95dd-41c5-9323-f703d8b3a027")
 			(effects
 				(font
@@ -33665,6 +34163,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33677,6 +34176,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33689,6 +34189,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33858,11 +34359,10 @@
 		(property "Value" "W989D6DBGX6"
 			(at 10.825 5.685 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "2a4d165b-d55c-4790-96f1-c5c6077f2047")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -33876,6 +34376,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33888,6 +34389,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -33900,6 +34402,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -34653,7 +35156,6 @@
 		(property "Value" "27R"
 			(at -1.65 0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a1772904-daff-4e17-9c30-35fdf9534ab5")
 			(effects
 				(font
@@ -34671,6 +35173,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -34683,6 +35186,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -34695,6 +35199,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -34866,7 +35371,6 @@
 		(property "Value" "470nF"
 			(at -2.075 -0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "10ccbec2-7320-43cc-b853-dfdd17fb2bd2")
 			(effects
 				(font
@@ -34884,6 +35388,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -34896,6 +35401,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -34908,6 +35414,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35079,7 +35586,6 @@
 		(property "Value" "TLV62569DDC"
 			(at 0 2.4 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "6e32aedb-6f01-4759-be07-bcaac54e2e7c")
 			(effects
 				(font
@@ -35097,6 +35603,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35109,6 +35616,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35121,6 +35629,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35364,7 +35873,6 @@
 		(property "Value" "2.2uF"
 			(at 1.925 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "c019e337-f8eb-46b4-a757-e3e1bd463a3a")
 			(effects
 				(font
@@ -35382,6 +35890,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35394,6 +35903,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35406,6 +35916,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35577,7 +36088,6 @@
 		(property "Value" "4K7"
 			(at -0.05 0.85 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "b6878868-e8a2-40c9-b555-20c404d87c57")
 			(effects
 				(font
@@ -35595,6 +36105,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35607,6 +36118,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35619,6 +36131,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35790,7 +36303,6 @@
 		(property "Value" "470nF"
 			(at 0.025 -0.9 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "46cda124-e33c-44fe-8727-e865e6604e80")
 			(effects
 				(font
@@ -35808,6 +36320,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35820,6 +36333,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -35832,6 +36346,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36003,7 +36518,6 @@
 		(property "Value" "536R"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "56fe1a93-bd72-4060-a772-a83b7198d3b0")
 			(effects
 				(font
@@ -36021,6 +36535,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36033,6 +36548,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36045,6 +36561,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36216,7 +36733,6 @@
 		(property "Value" "120K"
 			(at 1.925 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "a620451b-b365-425a-93d1-5948d59aa068")
 			(effects
 				(font
@@ -36234,6 +36750,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36246,6 +36763,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36258,6 +36776,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36429,7 +36948,6 @@
 		(property "Value" "100nF"
 			(at -2.075 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "5a360ee7-01d8-4499-a803-9e80b11ce3b9")
 			(effects
 				(font
@@ -36447,6 +36965,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36459,6 +36978,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36471,6 +36991,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36642,7 +37163,6 @@
 		(property "Value" "536R"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "1fda3bd5-c20c-4280-9971-2a0a10f7309d")
 			(effects
 				(font
@@ -36660,6 +37180,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36672,6 +37193,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36684,6 +37206,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36853,7 +37376,6 @@
 		(property "Value" "ECS-80-12-33-JGN-TR-12MHZ"
 			(at 4.65 -1.725 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "b7fe2e45-0c22-4387-9e86-38d7e87646df")
 			(effects
 				(font
@@ -36871,6 +37393,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36883,6 +37406,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -36895,6 +37419,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37177,7 +37702,6 @@
 		(property "Value" "0R"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "4dee9ef3-7a03-4878-bf7c-6c32c94a9a5d")
 			(effects
 				(font
@@ -37195,6 +37719,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -37208,6 +37733,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -37221,6 +37747,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -37354,7 +37881,6 @@
 		(property "Value" "150K"
 			(at -1.95 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "5e8bd97c-98c3-43b2-a1b7-553bf79b8671")
 			(effects
 				(font
@@ -37372,6 +37898,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37384,6 +37911,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37396,6 +37924,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37567,7 +38096,6 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "dc4ee718-c04d-4143-b1b3-4d4e4e31a60c")
 			(effects
 				(font
@@ -37585,6 +38113,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37597,6 +38126,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37609,6 +38139,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37655,7 +38186,12 @@
 			(at 0 0)
 			(size 6.4 6.4)
 			(drill 3.2)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "1")
@@ -37684,7 +38220,6 @@
 		(property "Value" "2.2uF"
 			(at -1.975 -0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "0e4ab647-09bc-4f91-b9d9-7362f89f301d")
 			(effects
 				(font
@@ -37702,6 +38237,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37714,6 +38250,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37726,6 +38263,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37897,7 +38435,6 @@
 		(property "Value" "10uF"
 			(at 1.95 -0.025 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "151adb8a-4e97-4165-8059-4dd0ef802d6d")
 			(effects
 				(font
@@ -37915,6 +38452,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37927,6 +38465,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -37939,6 +38478,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38109,7 +38649,6 @@
 		(property "Value" "470nF"
 			(at 2.075 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "3a531e5e-5545-49b6-a0ab-99793c45b005")
 			(effects
 				(font
@@ -38127,6 +38666,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38139,6 +38679,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38151,6 +38692,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38322,7 +38864,6 @@
 		(property "Value" "100nF"
 			(at -2.2 0.05 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "571f8d03-b701-46a0-a8cc-85a872fe32d2")
 			(effects
 				(font
@@ -38340,6 +38881,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38352,6 +38894,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38364,6 +38907,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38534,7 +39078,6 @@
 		(property "Value" "100K"
 			(at -1.95 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "6ee75d15-2e31-402f-ab4d-1e8a1b15637f")
 			(effects
 				(font
@@ -38552,6 +39095,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38564,6 +39108,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38576,6 +39121,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38747,7 +39293,6 @@
 		(property "Value" "LSF0108PWR"
 			(at 0 4.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "00416d91-ee48-4990-94c4-54eb655f577b")
 			(effects
 				(font
@@ -38765,6 +39310,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38777,6 +39323,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38789,6 +39336,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39171,7 +39719,6 @@
 		(property "Value" "100R"
 			(at 1.95 0.05 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "7a1b5a3e-389e-40a8-b197-fdbc2d08a825")
 			(effects
 				(font
@@ -39189,6 +39736,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39201,6 +39749,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39213,6 +39762,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39380,13 +39930,12 @@
 			)
 		)
 		(property "Value" "48MHz"
-			(at 10.692 1.992 180)
+			(at -0.025 -1.575 180)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "39df24fe-d207-400b-a307-4c929d2c39eb")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -39400,6 +39949,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39412,6 +39962,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39424,6 +39975,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39623,7 +40175,6 @@
 		(property "Value" "100nF"
 			(at 2.05 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "10e92d00-bca5-427d-a9c2-645606852488")
 			(effects
 				(font
@@ -39641,6 +40192,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39653,6 +40205,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39665,6 +40218,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39836,7 +40390,6 @@
 		(property "Value" "2K2"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "5bfc8ce2-740d-4d1e-ba3a-95601d1a1d92")
 			(effects
 				(font
@@ -39854,6 +40407,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39866,6 +40420,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39878,6 +40433,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40049,7 +40605,6 @@
 		(property "Value" "2.2uF"
 			(at 2.025 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "7e07ba0e-9d03-4267-80e7-486defc0f41d")
 			(effects
 				(font
@@ -40067,6 +40622,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40079,6 +40635,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40091,6 +40648,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40262,7 +40820,6 @@
 		(property "Value" "15pF"
 			(at 0 -0.975 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "c58b3da1-6ea8-48f4-bb65-a874fb72dabb")
 			(effects
 				(font
@@ -40280,6 +40837,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40292,6 +40850,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40304,6 +40863,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40475,7 +41035,6 @@
 		(property "Value" "100R"
 			(at -1.925 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "5a472349-79c6-4d74-9be7-2721ea3d5028")
 			(effects
 				(font
@@ -40493,6 +41052,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40505,6 +41065,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40517,6 +41078,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40688,7 +41250,6 @@
 		(property "Value" "10uF"
 			(at -1.925 0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "09c61c11-dcdd-4056-977a-ece900f5fe28")
 			(effects
 				(font
@@ -40706,6 +41267,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40718,6 +41280,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40730,6 +41293,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40900,7 +41464,6 @@
 		(property "Value" "270R"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "1cb13541-8e14-4301-b570-c8d4fbd8ac0a")
 			(effects
 				(font
@@ -40918,6 +41481,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40930,6 +41494,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -40942,6 +41507,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -41113,7 +41679,6 @@
 		(property "Value" "DB15_Female_MountingHoles"
 			(at -4.315 14.89 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "6eddb33f-edd7-4485-a38f-17489b403ccf")
 			(effects
 				(font
@@ -41131,6 +41696,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -41143,6 +41709,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -41155,6 +41722,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -41541,7 +42109,12 @@
 			(at -16.815 2.05 180)
 			(size 4 4)
 			(drill 3.2)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "PAD")
@@ -41552,7 +42125,12 @@
 			(at 8.185 2.05 180)
 			(size 4 4)
 			(drill 3.2)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "PAD")
@@ -41563,7 +42141,12 @@
 			(at 0 0 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 79 "/VGA_R_CONN")
 			(pinfunction "1")
@@ -41574,7 +42157,12 @@
 			(at -2.29 0 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 83 "/VGA_G_CONN")
 			(pinfunction "2")
@@ -41585,7 +42173,12 @@
 			(at -4.58 0 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 84 "/VGA_B_CONN")
 			(pinfunction "3")
@@ -41596,7 +42189,12 @@
 			(at -6.87 0 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 72 "unconnected-(VGA1-Pad4)")
 			(pinfunction "4")
@@ -41607,7 +42205,12 @@
 			(at -9.16 0 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "5")
@@ -41618,7 +42221,12 @@
 			(at 1.145 1.98 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "6")
@@ -41629,7 +42237,12 @@
 			(at -1.145 1.98 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "7")
@@ -41640,7 +42253,12 @@
 			(at -3.435 1.98 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "8")
@@ -41651,7 +42269,12 @@
 			(at -5.725 1.98 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 263 "unconnected-(VGA1-P9-Pad9)")
 			(pinfunction "P9")
@@ -41662,7 +42285,12 @@
 			(at -8.015 1.98 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "P10")
@@ -41673,7 +42301,12 @@
 			(at 0 3.96 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 265 "unconnected-(VGA1-P111-Pad11)")
 			(pinfunction "P111")
@@ -41684,7 +42317,12 @@
 			(at -2.29 3.96 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 264 "unconnected-(VGA1-P12-Pad12)")
 			(pinfunction "P12")
@@ -41695,7 +42333,12 @@
 			(at -4.58 3.96 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 81 "/VGA_HS_CONN")
 			(pinfunction "P13")
@@ -41706,7 +42349,12 @@
 			(at -6.87 3.96 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 77 "/VGA_VS_CONN")
 			(pinfunction "P14")
@@ -41717,7 +42365,12 @@
 			(at -9.16 3.96 180)
 			(size 1.6 1.6)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu" "In8.Cu"
+				"In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+				"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+				"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+				"In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 266 "unconnected-(VGA1-P15-Pad15)")
 			(pinfunction "P15")
@@ -41757,7 +42410,6 @@
 		(property "Value" "1K"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "d4509edd-c23d-49f6-ba0d-894f2ac202f1")
 			(effects
 				(font
@@ -41775,6 +42427,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -41787,6 +42440,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -41799,6 +42453,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -41970,7 +42625,6 @@
 		(property "Value" "15K"
 			(at 1.525 -0.025 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "21d14171-f83e-404e-9442-250bb08dcdec")
 			(effects
 				(font
@@ -41988,6 +42642,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42000,6 +42655,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42012,6 +42668,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42183,7 +42840,6 @@
 		(property "Value" "68R"
 			(at -1.95 0 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "2228a08f-6d0b-4c0b-b750-b03699e03aef")
 			(effects
 				(font
@@ -42201,6 +42857,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42213,6 +42870,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42225,6 +42883,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42397,7 +43056,6 @@
 		(property "Value" "100nF"
 			(at 0 1.65 180)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "974e291e-c52d-4ca0-9056-f4c6b6b685e4")
 			(effects
 				(font
@@ -42416,6 +43074,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42428,6 +43087,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42440,6 +43100,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42613,7 +43274,6 @@
 		(property "Value" "100nF"
 			(at -0.375 0.725 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "b80b8d13-4490-4b07-95b3-a38db1efef42")
 			(effects
 				(font
@@ -42632,6 +43292,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42644,6 +43305,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42656,6 +43318,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42829,7 +43492,6 @@
 		(property "Value" "100nF"
 			(at 0.1 -0.75 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "994372d7-388c-497f-84e8-48c56b5a7791")
 			(effects
 				(font
@@ -42848,6 +43510,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42860,6 +43523,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -42872,6 +43536,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43045,7 +43710,6 @@
 		(property "Value" "100nF"
 			(at 0.575 -0.85 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "7f829b5f-66fb-4ac8-84e1-a0d3cf062c33")
 			(effects
 				(font
@@ -43064,6 +43728,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43076,6 +43741,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43088,6 +43754,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43261,7 +43928,6 @@
 		(property "Value" "10uF"
 			(at 1.55 0.1 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "4854c275-b885-400c-bdc8-97b6e3213587")
 			(effects
 				(font
@@ -43280,6 +43946,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43292,6 +43959,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43304,6 +43972,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43477,7 +44146,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.75 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "08ff6b2c-d4b7-4ae7-814e-f9369eac7f36")
 			(effects
 				(font
@@ -43496,6 +44164,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43508,6 +44177,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43520,6 +44190,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43693,7 +44364,6 @@
 		(property "Value" "0R"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "af5bf4dd-321a-4310-a3e5-1318b419a294")
 			(effects
 				(font
@@ -43712,6 +44382,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43724,6 +44395,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43736,6 +44408,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43870,7 +44543,6 @@
 		(property "Value" "100nF"
 			(at 0 -1.16 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "aa1e0de3-1240-437e-a6f9-c74347f13c45")
 			(effects
 				(font
@@ -43889,6 +44561,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43901,6 +44574,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43913,6 +44587,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44086,7 +44761,6 @@
 		(property "Value" "100nF"
 			(at 2.05 -0.05 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "e0f68ad9-2b3b-45c2-8509-a564f304904b")
 			(effects
 				(font
@@ -44105,6 +44779,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44117,6 +44792,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44129,6 +44805,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44302,7 +44979,6 @@
 		(property "Value" "0R"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "20c43269-6f24-4b99-a24f-ccbce65fc5f5")
 			(effects
 				(font
@@ -44321,6 +44997,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44333,6 +45010,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44345,6 +45023,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44479,7 +45158,6 @@
 		(property "Value" "0R"
 			(at 0 0 180)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "d2a01ed5-c2e0-45dd-bf0d-bfc0d5f9fb1b")
 			(effects
 				(font
@@ -44498,6 +45176,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44510,6 +45189,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44522,6 +45202,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44656,7 +45337,6 @@
 		(property "Value" "10nF"
 			(at 0 -0.7 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "196ddae8-9680-46a5-a443-9ca235636715")
 			(effects
 				(font
@@ -44675,6 +45355,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44687,6 +45368,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44699,6 +45381,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44872,7 +45555,6 @@
 		(property "Value" "100nF"
 			(at -0.03 -0.65 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "e8dadf0a-9899-48fa-b69a-b4d0a3d51d33")
 			(effects
 				(font
@@ -44891,6 +45573,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44903,6 +45586,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -44915,6 +45599,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45086,11 +45771,10 @@
 		(property "Value" "LOGO"
 			(at 0 -3.36 180)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "9f0bb9c2-4966-4a90-84b5-93479a63b02b")
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 0.5 0.5)
 					(thickness 0.3)
 				)
 				(justify mirror)
@@ -45105,6 +45789,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45118,6 +45803,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45131,6 +45817,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -45241,7 +45928,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.675 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "db657612-72a6-4e02-bf43-38fe9dffbca2")
 			(effects
 				(font
@@ -45260,6 +45946,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45272,6 +45959,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45284,6 +45972,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45457,7 +46146,6 @@
 		(property "Value" "0R"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "bd9ee231-5cce-435f-b7fa-85400f9b1c4f")
 			(effects
 				(font
@@ -45476,6 +46164,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45488,6 +46177,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45500,6 +46190,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45634,7 +46325,6 @@
 		(property "Value" "100nF"
 			(at 0.6 0.75 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "306e48cd-dfc4-4cb1-83ab-c99a0f93c94f")
 			(effects
 				(font
@@ -45653,6 +46343,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45665,6 +46356,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45677,6 +46369,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45850,7 +46543,6 @@
 		(property "Value" "220nF"
 			(at 0 0.7 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "e9c9866c-7445-45df-93bd-02b6671707b8")
 			(effects
 				(font
@@ -45869,6 +46561,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45881,6 +46574,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -45893,6 +46587,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46066,7 +46761,6 @@
 		(property "Value" "10uF"
 			(at -1.55 0 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "033973f2-f3e4-41ca-b268-abd5f5e9aee1")
 			(effects
 				(font
@@ -46085,6 +46779,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46097,6 +46792,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46109,6 +46805,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46282,7 +46979,6 @@
 		(property "Value" "100nF"
 			(at 0.75 0.85 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "a5ff5450-3bb9-45b5-81d0-ed6d169b9ece")
 			(effects
 				(font
@@ -46301,6 +46997,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46313,6 +47010,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46325,6 +47023,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46498,7 +47197,6 @@
 		(property "Value" "100nF"
 			(at 0.95 -0.25 180)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "77118598-5d23-4d61-9ba6-1d5ed72df352")
 			(effects
 				(font
@@ -46517,6 +47215,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46529,6 +47228,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46541,6 +47241,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46714,7 +47415,6 @@
 		(property "Value" "2.2uF"
 			(at 0 1.1 180)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "63d8e0a4-e9c1-43f4-8d85-fdf41e8a8b4c")
 			(effects
 				(font
@@ -46733,6 +47433,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46745,6 +47446,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46757,6 +47459,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46930,7 +47633,6 @@
 		(property "Value" "100nF"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "f3b35163-5efc-405e-a875-2996628e4408")
 			(effects
 				(font
@@ -46949,6 +47651,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46961,6 +47664,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -46973,6 +47677,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47146,7 +47851,6 @@
 		(property "Value" "10nF"
 			(at 0 -0.6 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "6478a3b0-97f5-4f8d-bb7e-42d436f5ec39")
 			(effects
 				(font
@@ -47165,6 +47869,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47177,6 +47882,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47189,6 +47895,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47362,7 +48069,6 @@
 		(property "Value" "0R"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "e1a7c6f1-9a53-406c-8edf-2ad8841dfd19")
 			(effects
 				(font
@@ -47381,6 +48087,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47393,6 +48100,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47405,6 +48113,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47539,7 +48248,6 @@
 		(property "Value" "10nF"
 			(at 0 -0.6 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "9aaa8d47-3759-4646-a964-64c4962256ab")
 			(effects
 				(font
@@ -47558,6 +48266,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47570,6 +48279,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47582,6 +48292,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47755,7 +48466,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.7 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "ad851fd3-ff1e-4034-a7ee-8cc0669e2dcf")
 			(effects
 				(font
@@ -47774,6 +48484,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47786,6 +48497,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47798,6 +48510,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -47971,7 +48684,6 @@
 		(property "Value" "100nF"
 			(at 0 0.7 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "b2c611fc-5a6f-4825-8fd1-45d643bff548")
 			(effects
 				(font
@@ -47990,6 +48702,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48002,6 +48715,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48014,6 +48728,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48187,7 +48902,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.85 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "f79b51c6-1515-4fdf-9033-e8a33436e6e2")
 			(effects
 				(font
@@ -48206,6 +48920,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48218,6 +48933,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48230,6 +48946,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48403,7 +49120,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.7 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "66ffa213-8f69-4130-b4cf-95136fd86766")
 			(effects
 				(font
@@ -48422,6 +49138,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48434,6 +49151,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48446,6 +49164,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48619,7 +49338,6 @@
 		(property "Value" "100nF"
 			(at -1.8 -0.15 -90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "c9d850c5-aad8-4ac4-a39e-81719694d181")
 			(effects
 				(font
@@ -48638,6 +49356,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48650,6 +49369,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48662,6 +49382,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48835,7 +49556,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.85 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "881d5f59-bf8d-40c0-aaed-348deafabd5c")
 			(effects
 				(font
@@ -48854,6 +49574,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48866,6 +49587,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -48878,6 +49600,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49051,7 +49774,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.925 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "cbf1e33b-7f99-4814-80e8-8ef45930ccd7")
 			(effects
 				(font
@@ -49070,6 +49792,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49082,6 +49805,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49094,6 +49818,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49267,7 +49992,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.65 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "2ab6ecad-2a9c-462a-9d0d-e99682da59ec")
 			(effects
 				(font
@@ -49286,6 +50010,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49298,6 +50023,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49310,6 +50036,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49483,7 +50210,6 @@
 		(property "Value" "100nF"
 			(at 0 -1.16 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "9459a5fd-68c5-4ab5-95a7-950b2f5e0d79")
 			(effects
 				(font
@@ -49502,6 +50228,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49514,6 +50241,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49526,6 +50254,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49699,7 +50428,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.85 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "5fc55fce-90e7-4d05-940a-603f20811462")
 			(effects
 				(font
@@ -49718,6 +50446,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49730,6 +50459,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49742,6 +50472,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49915,7 +50646,6 @@
 		(property "Value" "10nF"
 			(at 0 -0.65 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "f3ca4405-9313-4438-abff-1673e5b5aed2")
 			(effects
 				(font
@@ -49934,6 +50664,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49946,6 +50677,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -49958,6 +50690,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50131,7 +50864,6 @@
 		(property "Value" "100nF"
 			(at -0.4 0.75 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "fae651a7-c970-4ac2-b179-8c37fbc55dfa")
 			(effects
 				(font
@@ -50150,6 +50882,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50162,6 +50895,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50174,6 +50908,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50347,7 +51082,6 @@
 		(property "Value" "0R"
 			(at 0 0 180)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "df0610fd-e345-41d7-a2fc-34c704ab2b92")
 			(effects
 				(font
@@ -50366,6 +51100,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50378,6 +51113,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50390,6 +51126,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50524,7 +51261,6 @@
 		(property "Value" "100nF"
 			(at 0 0.875 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "44c7f306-ea2d-4a2d-8511-ffb4e4ebc576")
 			(effects
 				(font
@@ -50543,6 +51279,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50555,6 +51292,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50567,6 +51305,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50740,7 +51479,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.725 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "6e1d96b8-d205-4ad4-bdd5-ddf5fa25bfb7")
 			(effects
 				(font
@@ -50759,6 +51497,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50771,6 +51510,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50783,6 +51523,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50956,7 +51697,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.75 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "9d5af90a-363e-4fe6-88ea-7d5c4ff23a5c")
 			(effects
 				(font
@@ -50975,6 +51715,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50987,6 +51728,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -50999,6 +51741,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51172,7 +51915,6 @@
 		(property "Value" "100nF"
 			(at -0.52 -0.8 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "1e6f621e-31fe-4479-bbb8-9c0f0b03ff3a")
 			(effects
 				(font
@@ -51191,6 +51933,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51203,6 +51946,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51215,6 +51959,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51388,7 +52133,6 @@
 		(property "Value" "100nF"
 			(at 0 0.7 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "f5c4eca3-cdbd-4122-b66e-c0749794bd05")
 			(effects
 				(font
@@ -51407,6 +52151,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51419,6 +52164,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51431,6 +52177,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51604,7 +52351,6 @@
 		(property "Value" "100nF"
 			(at 0.425 0.725 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "e358ed92-aa46-491c-ab1a-585213321e1f")
 			(effects
 				(font
@@ -51623,6 +52369,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51635,6 +52382,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51647,6 +52395,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51820,7 +52569,6 @@
 		(property "Value" "100nF"
 			(at 0 -0.8 90)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "31c9cc0a-1820-43c3-96ee-93a9b7101b04")
 			(effects
 				(font
@@ -51839,6 +52587,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51851,6 +52600,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -51863,6 +52613,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -83400,7 +84151,7 @@
 	(zone
 		(net 2)
 		(net_name "/PWR5V0")
-		(layers "F&B.Cu")
+		(layers "F.Cu" "B.Cu")
 		(uuid "303961d7-d607-4a43-84aa-a68689ebc0bf")
 		(hatch edge 0.508)
 		(priority 2)
@@ -83824,7 +84575,7 @@
 	(zone
 		(net 2)
 		(net_name "/PWR5V0")
-		(layers "F&B.Cu")
+		(layers "F.Cu" "B.Cu")
 		(uuid "8f616499-83b9-4a7c-8708-737b131e30f4")
 		(hatch edge 0.508)
 		(priority 2)

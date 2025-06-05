@@ -7,7 +7,7 @@
 	(title_block
 		(title "Kölsch FPGA Computer")
 		(date "2024-03-09")
-		(rev "V2")
+		(rev "V2A")
 		(company "Copyright © 2023 Lone Dynamics Corporation")
 	)
 	(lib_symbols
@@ -27855,7 +27855,6 @@
 	)
 	(label "PMOD_A4"
 		(at 300.99 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27866,7 +27865,6 @@
 	)
 	(label "DRAM_DQ0"
 		(at 238.252 232.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27877,7 +27875,6 @@
 	)
 	(label "PWR1V1"
 		(at 151.13 448.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27888,7 +27885,6 @@
 	)
 	(label "VGA_R2"
 		(at 148.59 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27899,7 +27895,6 @@
 	)
 	(label "DRAM_A3"
 		(at 241.3 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27910,7 +27905,6 @@
 	)
 	(label "PWR3V3"
 		(at 592.074 461.518 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27921,7 +27915,6 @@
 	)
 	(label "USB2_CONN_DN"
 		(at 212.852 555.244 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27932,7 +27925,6 @@
 	)
 	(label "VDD_CORE"
 		(at 100.076 448.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27943,7 +27935,6 @@
 	)
 	(label "VIDEO_C"
 		(at 378.206 264.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27954,7 +27945,6 @@
 	)
 	(label "PMOD_A1C"
 		(at 667.258 237.236 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27965,7 +27955,6 @@
 	)
 	(label "PMOD_A7C"
 		(at 728.218 239.776 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27976,7 +27965,6 @@
 	)
 	(label "PMOD_A9"
 		(at 728.98 232.156 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27987,7 +27975,6 @@
 	)
 	(label "USB_CONN_DN"
 		(at 62.23 522.478 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27998,7 +27985,6 @@
 	)
 	(label "DRAM_CAS"
 		(at 395.224 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28009,7 +27995,6 @@
 	)
 	(label "VDD_EA"
 		(at 246.38 115.316 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28020,7 +28005,6 @@
 	)
 	(label "PMOD_A9C"
 		(at 785.622 248.666 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28031,7 +28015,6 @@
 	)
 	(label "PWR2V5"
 		(at 798.576 430.276 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28042,7 +28025,6 @@
 	)
 	(label "DRAM_CLK"
 		(at 186.69 273.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28053,7 +28035,6 @@
 	)
 	(label "VDD_EB"
 		(at 245.11 136.906 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28064,7 +28045,6 @@
 	)
 	(label "DRAM_A8"
 		(at 241.3 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28075,7 +28055,6 @@
 	)
 	(label "PWR2V5"
 		(at 229.108 107.696 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28086,7 +28065,6 @@
 	)
 	(label "DRAM_DQ5"
 		(at 238.252 245.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28097,7 +28075,6 @@
 	)
 	(label "VGA_R0"
 		(at 602.996 40.132 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28108,7 +28085,6 @@
 	)
 	(label "DRAM_DQ1"
 		(at 337.82 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28119,7 +28095,6 @@
 	)
 	(label "SD_SCK"
 		(at 248.412 424.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28130,7 +28105,6 @@
 	)
 	(label "PWR1V1"
 		(at 151.638 430.784 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28141,7 +28115,6 @@
 	)
 	(label "USB_DP"
 		(at 88.9 529.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28152,7 +28125,6 @@
 	)
 	(label "SD_SS"
 		(at 673.354 160.274 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28163,7 +28135,6 @@
 	)
 	(label "DRAM_A11"
 		(at 395.478 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28174,7 +28145,6 @@
 	)
 	(label "VDD_WA"
 		(at 72.39 37.846 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28185,7 +28155,6 @@
 	)
 	(label "SD_MOSI"
 		(at 248.412 426.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28196,7 +28165,6 @@
 	)
 	(label "CLK48"
 		(at 544.322 214.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28207,7 +28175,6 @@
 	)
 	(label "DRAM_A4"
 		(at 186.69 234.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28218,7 +28185,6 @@
 	)
 	(label "GND"
 		(at 787.908 235.966 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28229,7 +28195,6 @@
 	)
 	(label "DRAM_CKE"
 		(at 186.69 270.51 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28240,7 +28205,6 @@
 	)
 	(label "USB_CONN_DP"
 		(at 36.322 552.958 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28251,7 +28215,6 @@
 	)
 	(label "DRAM_DQ3"
 		(at 238.252 240.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28262,7 +28225,6 @@
 	)
 	(label "DRAM_BS0"
 		(at 186.69 285.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28273,7 +28235,6 @@
 	)
 	(label "PWR3V3"
 		(at 687.578 134.874 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28284,7 +28245,6 @@
 	)
 	(label "PMOD_A1C"
 		(at 785.622 225.806 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28295,7 +28255,6 @@
 	)
 	(label "DRAM_A8"
 		(at 186.69 245.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28306,7 +28265,6 @@
 	)
 	(label "CSD_MISO"
 		(at 355.6 502.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28317,7 +28275,6 @@
 	)
 	(label "VDD_SB"
 		(at 374.65 27.94 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28328,7 +28285,6 @@
 	)
 	(label "PWR1V1"
 		(at 83.312 447.802 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28339,7 +28295,6 @@
 	)
 	(label "RUART_TX"
 		(at 494.03 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28350,7 +28305,6 @@
 	)
 	(label "VGA_G0"
 		(at 148.59 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28361,7 +28315,6 @@
 	)
 	(label "VGA_B0"
 		(at 602.996 75.692 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28372,7 +28325,6 @@
 	)
 	(label "GND"
 		(at 64.516 240.03 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28383,7 +28335,6 @@
 	)
 	(label "DRAM_DQ11"
 		(at 238.252 260.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28394,7 +28345,6 @@
 	)
 	(label "DRAM_DQ7"
 		(at 238.252 250.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28405,7 +28355,6 @@
 	)
 	(label "VGA_B2"
 		(at 602.996 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28416,7 +28365,6 @@
 	)
 	(label "DRAM_BS1"
 		(at 186.69 288.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28427,7 +28375,6 @@
 	)
 	(label "AUDIO_L"
 		(at 318.77 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28438,7 +28385,6 @@
 	)
 	(label "DRAM_A10"
 		(at 186.69 250.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28449,7 +28395,6 @@
 	)
 	(label "PWR3V3"
 		(at 673.354 134.874 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28460,7 +28405,6 @@
 	)
 	(label "VGA_B1"
 		(at 602.996 78.486 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28471,7 +28415,6 @@
 	)
 	(label "VIDEO_D0"
 		(at 318.77 264.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28482,7 +28425,6 @@
 	)
 	(label "PWR2V5"
 		(at 51.816 243.84 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28493,7 +28435,6 @@
 	)
 	(label "CSD_MOSI"
 		(at 248.412 414.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28504,7 +28445,6 @@
 	)
 	(label "PMOD_A8"
 		(at 728.98 229.616 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28515,7 +28455,6 @@
 	)
 	(label "RSPI_SCK"
 		(at 424.942 520.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28526,7 +28465,6 @@
 	)
 	(label "SD_MISO"
 		(at 694.944 160.274 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28537,7 +28475,6 @@
 	)
 	(label "PWR3V3"
 		(at 797.306 374.142 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28548,7 +28485,6 @@
 	)
 	(label "DRAM_A1"
 		(at 186.69 227.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28559,7 +28495,6 @@
 	)
 	(label "DRAM_A7"
 		(at 396.24 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28570,7 +28505,6 @@
 	)
 	(label "PWR3V3"
 		(at 641.35 219.456 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28581,7 +28515,6 @@
 	)
 	(label "DRAM_WE"
 		(at 186.69 267.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28592,7 +28525,6 @@
 	)
 	(label "VIDEO_D0"
 		(at 300.482 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28603,7 +28535,6 @@
 	)
 	(label "USB2_DP"
 		(at 241.554 515.366 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28614,7 +28545,6 @@
 	)
 	(label "JTAG_TDO"
 		(at 88.9 265.684 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28625,7 +28555,6 @@
 	)
 	(label "CSD_MISO"
 		(at 248.412 416.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28636,7 +28565,6 @@
 	)
 	(label "PMOD_A3C"
 		(at 667.258 242.316 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28647,7 +28575,6 @@
 	)
 	(label "XOUT"
 		(at 440.182 397.002 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28658,7 +28585,6 @@
 	)
 	(label "VDD_WC"
 		(at 472.44 26.67 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28669,7 +28595,6 @@
 	)
 	(label "RP_QSPI_SCK"
 		(at 489.3056 470.2556 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28680,7 +28605,6 @@
 	)
 	(label "CUSB1_DP"
 		(at 435.61 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28691,7 +28615,6 @@
 	)
 	(label "VGA_BLUE"
 		(at 629.92 75.692 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28702,7 +28625,6 @@
 	)
 	(label "SD_SS"
 		(at 724.408 155.448 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28713,7 +28635,6 @@
 	)
 	(label "PMOD_A9"
 		(at 300.99 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28724,7 +28645,6 @@
 	)
 	(label "VGA_VS"
 		(at 695.198 65.786 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28735,7 +28655,6 @@
 	)
 	(label "DRAM_DQ2"
 		(at 238.252 237.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28746,7 +28665,6 @@
 	)
 	(label "VIDEO_D1"
 		(at 318.77 269.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28757,7 +28675,6 @@
 	)
 	(label "CLK48"
 		(at 400.304 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28768,7 +28685,6 @@
 	)
 	(label "DRAM_DQ9"
 		(at 238.252 255.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28779,7 +28695,6 @@
 	)
 	(label "SD_SCK"
 		(at 687.578 160.274 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28790,7 +28705,6 @@
 	)
 	(label "CUSB1_DP"
 		(at 355.6 520.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28801,7 +28715,6 @@
 	)
 	(label "VGA_B_CONN"
 		(at 652.526 75.692 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28812,7 +28725,6 @@
 	)
 	(label "USB_CONN_DN"
 		(at 36.322 555.498 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28823,7 +28735,6 @@
 	)
 	(label "DRAM_DQ15"
 		(at 337.82 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28834,7 +28745,6 @@
 	)
 	(label "CSD_SS"
 		(at 496.824 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28845,7 +28755,6 @@
 	)
 	(label "VGA_VS_CONN"
 		(at 721.868 65.786 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28856,7 +28765,6 @@
 	)
 	(label "VGA_G_CONN"
 		(at 652.526 56.642 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28867,7 +28775,6 @@
 	)
 	(label "PWR2V5"
 		(at 534.416 115.062 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28878,7 +28785,6 @@
 	)
 	(label "JTAG_TMS"
 		(at 72.136 265.43 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28889,7 +28795,6 @@
 	)
 	(label "PWR3V3"
 		(at 787.908 256.286 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28900,7 +28805,6 @@
 	)
 	(label "PWR2V5"
 		(at 72.136 243.332 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28911,7 +28815,6 @@
 	)
 	(label "DRAM_UDQM"
 		(at 337.82 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28922,7 +28825,6 @@
 	)
 	(label "DRAM_A2"
 		(at 186.69 229.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28933,7 +28835,6 @@
 	)
 	(label "USB2_DN"
 		(at 241.554 522.732 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28944,7 +28845,6 @@
 	)
 	(label "VDD_CORE"
 		(at 93.98 223.774 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28955,7 +28855,6 @@
 	)
 	(label "DRAM_UDQM"
 		(at 186.69 280.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28966,7 +28865,6 @@
 	)
 	(label "CUSB2_DP"
 		(at 309.118 411.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28977,7 +28875,6 @@
 	)
 	(label "PMOD_A3"
 		(at 667.258 229.616 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28988,7 +28885,6 @@
 	)
 	(label "CSD_SS"
 		(at 248.412 408.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28999,7 +28895,6 @@
 	)
 	(label "USB1_DP"
 		(at 310.642 429.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29010,7 +28905,6 @@
 	)
 	(label "USB2_CONN_DP"
 		(at 212.852 552.704 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29021,7 +28915,6 @@
 	)
 	(label "PWR2V5"
 		(at 533.146 136.652 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29032,7 +28925,6 @@
 	)
 	(label "PWR3V3"
 		(at 694.944 134.874 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29043,7 +28935,6 @@
 	)
 	(label "PWR5V0"
 		(at 137.668 545.338 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29054,7 +28945,6 @@
 	)
 	(label "PMOD_A2"
 		(at 300.99 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29065,7 +28955,6 @@
 	)
 	(label "PWR2V5"
 		(at 484.124 434.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29076,7 +28965,6 @@
 	)
 	(label "VGA_R3"
 		(at 148.59 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29087,7 +28975,6 @@
 	)
 	(label "DRAM_CKE"
 		(at 337.82 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29098,7 +28985,6 @@
 	)
 	(label "PMOD_A10C"
 		(at 726.948 247.396 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29109,7 +28995,6 @@
 	)
 	(label "BOOT"
 		(at 472.694 480.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29120,7 +29005,6 @@
 	)
 	(label "VDD_SB"
 		(at 345.948 135.636 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29131,7 +29015,6 @@
 	)
 	(label "DRAM_DQ13"
 		(at 238.252 265.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29142,7 +29025,6 @@
 	)
 	(label "DRAM_A4"
 		(at 241.3 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29153,7 +29035,6 @@
 	)
 	(label "VDD_EA"
 		(at 273.05 27.94 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29164,7 +29045,6 @@
 	)
 	(label "VDD_CORE"
 		(at 32.766 430.276 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29175,7 +29055,6 @@
 	)
 	(label "PMOD_A7"
 		(at 728.98 227.076 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29186,7 +29065,6 @@
 	)
 	(label "PMOD_A9C"
 		(at 728.218 244.856 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29197,7 +29075,6 @@
 	)
 	(label "DRAM_DQ0"
 		(at 337.82 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29208,7 +29085,6 @@
 	)
 	(label "DRAM_DQ1"
 		(at 238.252 234.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29219,7 +29095,6 @@
 	)
 	(label "USB1_DN"
 		(at 241.554 506.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29230,7 +29105,6 @@
 	)
 	(label "PMOD_A10"
 		(at 727.964 234.696 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29241,7 +29115,6 @@
 	)
 	(label "VGA_R2"
 		(at 602.996 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29252,7 +29125,6 @@
 	)
 	(label "PWR3V3"
 		(at 813.562 236.474 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29263,7 +29135,6 @@
 	)
 	(label "DRAM_A9"
 		(at 396.24 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29274,7 +29145,6 @@
 	)
 	(label "GND"
 		(at 718.058 63.246 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29285,7 +29155,6 @@
 	)
 	(label "PWR3V3"
 		(at 424.688 457.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29296,7 +29165,6 @@
 	)
 	(label "SD_MISO"
 		(at 248.412 429.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29307,7 +29175,6 @@
 	)
 	(label "PWR1V1"
 		(at 83.82 430.276 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29318,7 +29185,6 @@
 	)
 	(label "CSD_SS"
 		(at 355.6 505.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29329,7 +29195,6 @@
 	)
 	(label "DRAM_DQ7"
 		(at 337.82 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29340,7 +29205,6 @@
 	)
 	(label "CFAILED"
 		(at 426.72 497.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29351,7 +29215,6 @@
 	)
 	(label "PWR2V5"
 		(at 81.28 243.586 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29362,7 +29225,6 @@
 	)
 	(label "GND"
 		(at 718.058 73.406 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29373,7 +29235,6 @@
 	)
 	(label "VDD_CORE"
 		(at 100.584 430.784 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29384,7 +29245,6 @@
 	)
 	(label "VDD_CORE"
 		(at 32.258 447.802 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29395,7 +29255,6 @@
 	)
 	(label "DRAM_DQ4"
 		(at 238.252 242.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29406,7 +29265,6 @@
 	)
 	(label "RSPI_MISO"
 		(at 423.926 525.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29417,7 +29275,6 @@
 	)
 	(label "VGA_G1"
 		(at 148.59 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29428,7 +29285,6 @@
 	)
 	(label "VDD_EB"
 		(at 278.13 27.94 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29439,7 +29295,6 @@
 	)
 	(label "VGA_G1"
 		(at 602.996 59.436 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29450,7 +29305,6 @@
 	)
 	(label "JTAG_TMS"
 		(at 425.196 502.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29461,7 +29315,6 @@
 	)
 	(label "JTAG_TDI"
 		(at 425.704 505.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29472,7 +29325,6 @@
 	)
 	(label "DRAM_A0"
 		(at 241.3 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29483,7 +29335,6 @@
 	)
 	(label "CSD_SCK"
 		(at 248.412 411.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29494,7 +29345,6 @@
 	)
 	(label "PWR1V8"
 		(at 429.514 114.046 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29505,7 +29355,6 @@
 	)
 	(label "PWR2V5"
 		(at 88.9 243.586 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29516,7 +29365,6 @@
 	)
 	(label "AUDIO_LC"
 		(at 372.872 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29527,7 +29375,6 @@
 	)
 	(label "DRAM_A12"
 		(at 241.3 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29538,7 +29385,6 @@
 	)
 	(label "PMOD_A7C"
 		(at 785.622 243.586 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29549,7 +29395,6 @@
 	)
 	(label "PMOD_A4"
 		(at 667.258 232.156 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29560,7 +29405,6 @@
 	)
 	(label "VIDEO_D3"
 		(at 318.77 279.146 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29571,7 +29415,6 @@
 	)
 	(label "PWR2V5"
 		(at 667.258 216.916 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29582,7 +29425,6 @@
 	)
 	(label "PWR2V5"
 		(at 229.108 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29593,7 +29435,6 @@
 	)
 	(label "VDD_WB"
 		(at 452.12 115.062 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29604,7 +29445,6 @@
 	)
 	(label "DRAM_CS"
 		(at 396.24 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29615,7 +29455,6 @@
 	)
 	(label "DRAM_A0"
 		(at 186.69 224.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29626,7 +29465,6 @@
 	)
 	(label "DRAM_RAS"
 		(at 395.478 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29637,7 +29475,6 @@
 	)
 	(label "JTAG_TCK"
 		(at 27.94 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29648,7 +29485,6 @@
 	)
 	(label "CRESET"
 		(at 355.6 513.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29659,7 +29495,6 @@
 	)
 	(label "JTAG_TMS"
 		(at 27.94 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29670,7 +29505,6 @@
 	)
 	(label "VDD_NA"
 		(at 180.34 34.036 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29681,7 +29515,6 @@
 	)
 	(label "RP_QSPI_SS"
 		(at 422.91 480.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29692,7 +29525,6 @@
 	)
 	(label "JTAG_TDO"
 		(at 27.94 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29703,7 +29535,6 @@
 	)
 	(label "USB1_CONN_DP"
 		(at 198.374 499.364 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29714,7 +29545,6 @@
 	)
 	(label "AUDIO_R"
 		(at 318.77 237.744 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29725,7 +29555,6 @@
 	)
 	(label "CFAILED"
 		(at 108.966 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29736,7 +29565,6 @@
 	)
 	(label "CUSB2_DN"
 		(at 435.61 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29747,7 +29575,6 @@
 	)
 	(label "RP_QSPI_IO2"
 		(at 535.5336 470.2556 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29758,7 +29585,6 @@
 	)
 	(label "XIN"
 		(at 366.522 397.002 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29769,7 +29595,6 @@
 	)
 	(label "CFG_MD3"
 		(at 27.94 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29780,7 +29605,6 @@
 	)
 	(label "VGA_G2"
 		(at 148.59 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29791,7 +29615,6 @@
 	)
 	(label "PMOD_A8"
 		(at 300.99 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29802,7 +29625,6 @@
 	)
 	(label "DRAM_DQ11"
 		(at 337.82 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29813,7 +29635,6 @@
 	)
 	(label "DRAM_BS1"
 		(at 395.478 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29824,7 +29645,6 @@
 	)
 	(label "VGA_B1"
 		(at 148.59 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29835,7 +29655,6 @@
 	)
 	(label "USB_DN"
 		(at 88.9 522.478 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29846,7 +29665,6 @@
 	)
 	(label "VDD_SA"
 		(at 347.218 114.046 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29857,7 +29675,6 @@
 	)
 	(label "DRAM_DQ8"
 		(at 337.82 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29868,7 +29685,6 @@
 	)
 	(label "PWR3V3"
 		(at 459.994 467.36 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29879,7 +29695,6 @@
 	)
 	(label "DRAM_DQ14"
 		(at 337.82 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29890,7 +29705,6 @@
 	)
 	(label "RP_QSPI_IO1"
 		(at 535.5336 465.1756 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29901,7 +29715,6 @@
 	)
 	(label "USB1_DN"
 		(at 310.642 431.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29912,7 +29725,6 @@
 	)
 	(label "USB_DP"
 		(at 426.72 487.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29923,7 +29735,6 @@
 	)
 	(label "USB1_CONN_DN"
 		(at 198.374 506.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29934,7 +29745,6 @@
 	)
 	(label "DRAM_A9"
 		(at 186.69 247.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29945,7 +29755,6 @@
 	)
 	(label "VGA_B0"
 		(at 148.59 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29956,7 +29765,6 @@
 	)
 	(label "VGA_R1"
 		(at 148.59 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29967,7 +29775,6 @@
 	)
 	(label "SWCLK"
 		(at 355.6 472.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29978,7 +29785,6 @@
 	)
 	(label "AUDIO_L"
 		(at 209.296 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29989,7 +29795,6 @@
 	)
 	(label "PMOD_A1"
 		(at 667.258 224.536 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30000,7 +29805,6 @@
 	)
 	(label "VGA_G3"
 		(at 148.59 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30011,7 +29815,6 @@
 	)
 	(label "DRAM_DQ14"
 		(at 238.252 267.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30022,7 +29825,6 @@
 	)
 	(label "CUSB2_DP"
 		(at 355.6 525.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30033,7 +29835,6 @@
 	)
 	(label "DRAM_DQ3"
 		(at 396.24 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30044,7 +29845,6 @@
 	)
 	(label "CFG_MD3"
 		(at 355.6 528.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30055,7 +29855,6 @@
 	)
 	(label "VGA_R0"
 		(at 148.59 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30066,7 +29865,6 @@
 	)
 	(label "DRAM_A5"
 		(at 241.3 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30077,7 +29875,6 @@
 	)
 	(label "PMOD_A2"
 		(at 667.258 227.076 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30088,7 +29885,6 @@
 	)
 	(label "DRAM_A3"
 		(at 186.69 232.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30099,7 +29895,6 @@
 	)
 	(label "PWR2V5"
 		(at 327.406 136.906 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30110,7 +29905,6 @@
 	)
 	(label "VDD_CLK"
 		(at 70.866 156.972 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30121,7 +29915,6 @@
 	)
 	(label "RUART_RX"
 		(at 494.03 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30132,7 +29925,6 @@
 	)
 	(label "SD_MOSI"
 		(at 680.466 160.274 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30143,7 +29935,6 @@
 	)
 	(label "RP_QSPI_SS"
 		(at 489.3056 465.1756 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30154,7 +29945,6 @@
 	)
 	(label "LED"
 		(at 580.39 45.466 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30165,7 +29955,6 @@
 	)
 	(label "PMOD_A4C"
 		(at 667.258 244.856 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30176,7 +29965,6 @@
 	)
 	(label "PWR2V5"
 		(at 424.18 434.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30187,7 +29975,6 @@
 	)
 	(label "DRAM_DQ9"
 		(at 337.82 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30198,7 +29985,6 @@
 	)
 	(label "XOUT"
 		(at 355.6 485.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30209,7 +29995,6 @@
 	)
 	(label "DRAM_A6"
 		(at 396.24 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30220,7 +30005,6 @@
 	)
 	(label "PMOD_A8C"
 		(at 785.622 246.126 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30231,7 +30015,6 @@
 	)
 	(label "PMOD_A8C"
 		(at 728.218 242.316 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30242,7 +30025,6 @@
 	)
 	(label "VGA_R_CONN"
 		(at 721.868 37.846 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30253,7 +30035,6 @@
 	)
 	(label "DRAM_DQ10"
 		(at 337.82 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30264,7 +30045,6 @@
 	)
 	(label "CDONE"
 		(at 109.982 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30275,7 +30055,6 @@
 	)
 	(label "RUART_RX"
 		(at 424.18 518.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30286,7 +30065,6 @@
 	)
 	(label "PMOD_A2C"
 		(at 667.258 239.776 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30297,7 +30075,6 @@
 	)
 	(label "SD_SCK"
 		(at 724.408 163.068 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30308,7 +30085,6 @@
 	)
 	(label "VGA_R1"
 		(at 602.996 42.926 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30319,7 +30095,6 @@
 	)
 	(label "DRAM_A6"
 		(at 186.69 240.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30330,7 +30105,6 @@
 	)
 	(label "RP_QSPI_IO3"
 		(at 535.5336 472.7956 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30341,7 +30115,6 @@
 	)
 	(label "DRAM_CLK"
 		(at 337.82 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30352,7 +30125,6 @@
 	)
 	(label "VDD_NB"
 		(at 185.42 34.036 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30363,7 +30135,6 @@
 	)
 	(label "JTAG_TCK"
 		(at 64.516 265.43 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30374,7 +30145,6 @@
 	)
 	(label "VDD_PLL"
 		(at 96.266 218.694 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30385,7 +30155,6 @@
 	)
 	(label "DRAM_DQ10"
 		(at 238.252 257.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30396,7 +30165,6 @@
 	)
 	(label "DRAM_A10"
 		(at 395.732 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30407,7 +30175,6 @@
 	)
 	(label "DRAM_A5"
 		(at 186.69 237.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30418,7 +30185,6 @@
 	)
 	(label "VDD_WC"
 		(at 450.85 136.652 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30429,7 +30195,6 @@
 	)
 	(label "VGA_G2"
 		(at 602.996 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30440,7 +30205,6 @@
 	)
 	(label "GND"
 		(at 27.94 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30451,7 +30215,6 @@
 	)
 	(label "PWR2V5"
 		(at 542.8996 441.2996 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30462,7 +30225,6 @@
 	)
 	(label "USB_CONN_DP"
 		(at 62.23 529.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30473,7 +30235,6 @@
 	)
 	(label "RSPI_MOSI"
 		(at 423.926 523.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30484,7 +30245,6 @@
 	)
 	(label "USB_DN"
 		(at 426.72 485.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30495,7 +30255,6 @@
 	)
 	(label "VGA_B3"
 		(at 148.59 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30506,7 +30265,6 @@
 	)
 	(label "PWR5V0"
 		(at 275.082 540.004 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30517,7 +30275,6 @@
 	)
 	(label "DRAM_DQ2"
 		(at 337.82 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30528,7 +30285,6 @@
 	)
 	(label "PMOD_A7"
 		(at 300.99 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30539,7 +30295,6 @@
 	)
 	(label "VIDEO_D2"
 		(at 300.736 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30550,7 +30305,6 @@
 	)
 	(label "LED"
 		(at 213.36 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30561,7 +30315,6 @@
 	)
 	(label "PWR2V5"
 		(at 108.458 410.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30572,7 +30325,6 @@
 	)
 	(label "PMOD_A2C"
 		(at 785.622 228.346 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30583,7 +30335,6 @@
 	)
 	(label "VGA_HS"
 		(at 148.59 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30594,7 +30345,6 @@
 	)
 	(label "VDD_WA"
 		(at 35.052 101.092 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30605,7 +30355,6 @@
 	)
 	(label "RSPI_MISO"
 		(at 106.68 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30616,7 +30365,6 @@
 	)
 	(label "SD_MOSI"
 		(at 724.408 157.988 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30627,7 +30375,6 @@
 	)
 	(label "CSD_MOSI"
 		(at 494.03 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30638,7 +30385,6 @@
 	)
 	(label "CRESET"
 		(at 94.234 177.292 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30649,7 +30395,6 @@
 	)
 	(label "PWR1V8"
 		(at 160.528 183.388 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30660,7 +30405,6 @@
 	)
 	(label "DRAM_DQ12"
 		(at 238.252 262.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30671,7 +30415,6 @@
 	)
 	(label "VDD_SA"
 		(at 369.57 27.94 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30682,7 +30425,6 @@
 	)
 	(label "DRAM_RAS"
 		(at 186.69 260.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30693,7 +30435,6 @@
 	)
 	(label "CSD_SCK"
 		(at 495.3 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30704,7 +30445,6 @@
 	)
 	(label "AUDIO_R"
 		(at 208.788 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30715,7 +30455,6 @@
 	)
 	(label "SWD"
 		(at 355.6 474.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30726,7 +30465,6 @@
 	)
 	(label "CUSB1_DN"
 		(at 435.61 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30737,7 +30475,6 @@
 	)
 	(label "VGA_G0"
 		(at 602.996 56.642 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30748,7 +30485,6 @@
 	)
 	(label "RSPI_MOSI"
 		(at 106.68 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30759,7 +30495,6 @@
 	)
 	(label "VGA_G_CONN"
 		(at 721.868 42.926 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30770,7 +30505,6 @@
 	)
 	(label "DRAM_A1"
 		(at 396.748 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30781,7 +30515,6 @@
 	)
 	(label "JTAG_TCK"
 		(at 425.196 500.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30792,7 +30525,6 @@
 	)
 	(label "DRAM_A7"
 		(at 186.69 242.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30803,7 +30535,6 @@
 	)
 	(label "USB_CONN_DP"
 		(at 100.838 555.498 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30814,7 +30545,6 @@
 	)
 	(label "VDD_CLK"
 		(at 37.084 410.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30825,7 +30555,6 @@
 	)
 	(label "PWR1V8"
 		(at 669.036 461.518 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30836,7 +30565,6 @@
 	)
 	(label "USB2_CONN_DP"
 		(at 198.374 515.366 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30847,7 +30575,6 @@
 	)
 	(label "PMOD_A3C"
 		(at 785.622 230.886 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30858,7 +30585,6 @@
 	)
 	(label "PWR1V1"
 		(at 798.83 488.188 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30869,7 +30595,6 @@
 	)
 	(label "DRAM_DQ5"
 		(at 394.97 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30880,7 +30605,6 @@
 	)
 	(label "USB2_DN"
 		(at 310.642 426.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30891,7 +30615,6 @@
 	)
 	(label "DRAM_A2"
 		(at 397.764 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30902,7 +30625,6 @@
 	)
 	(label "DRAM_LDQM"
 		(at 186.69 278.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30913,7 +30635,6 @@
 	)
 	(label "PWR3V3"
 		(at 448.31 420.116 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30924,7 +30645,6 @@
 	)
 	(label "GND"
 		(at 718.058 58.166 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30935,7 +30655,6 @@
 	)
 	(label "BOOT"
 		(at 514.096 416.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30946,7 +30665,6 @@
 	)
 	(label "CUSB1_DN"
 		(at 355.6 518.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30957,7 +30675,6 @@
 	)
 	(label "PWR3V3"
 		(at 680.466 134.874 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30968,7 +30685,6 @@
 	)
 	(label "PMOD_A10"
 		(at 299.72 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30979,7 +30695,6 @@
 	)
 	(label "CSD_MISO"
 		(at 494.284 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30990,7 +30705,6 @@
 	)
 	(label "USB1_DP"
 		(at 241.554 499.364 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31001,7 +30715,6 @@
 	)
 	(label "RP_QSPI_SCK"
 		(at 421.386 467.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31012,7 +30725,6 @@
 	)
 	(label "USB2_CONN_DN"
 		(at 198.374 522.732 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31023,7 +30735,6 @@
 	)
 	(label "DRAM_DQ8"
 		(at 238.252 252.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31034,7 +30745,6 @@
 	)
 	(label "CSD_MOSI"
 		(at 355.6 510.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31045,7 +30755,6 @@
 	)
 	(label "DRAM_CAS"
 		(at 186.69 262.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31056,7 +30765,6 @@
 	)
 	(label "CSD_SCK"
 		(at 355.6 508 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31067,7 +30775,6 @@
 	)
 	(label "GND"
 		(at 27.94 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31078,7 +30785,6 @@
 	)
 	(label "RP_QSPI_IO3"
 		(at 422.402 477.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31089,7 +30795,6 @@
 	)
 	(label "XIN"
 		(at 355.6 482.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31100,7 +30805,6 @@
 	)
 	(label "PWR2V5"
 		(at 248.412 401.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31111,7 +30815,6 @@
 	)
 	(label "VDD_PLL"
 		(at 36.576 388.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31122,7 +30825,6 @@
 	)
 	(label "GND"
 		(at 718.058 45.466 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31133,7 +30835,6 @@
 	)
 	(label "AUDIO_RC"
 		(at 401.32 223.266 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31144,7 +30845,6 @@
 	)
 	(label "VDD_NA"
 		(at 146.812 107.696 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31155,7 +30855,6 @@
 	)
 	(label "VGA_HS"
 		(at 695.198 60.706 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31166,7 +30865,6 @@
 	)
 	(label "VIDEO_D1"
 		(at 300.736 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31177,7 +30875,6 @@
 	)
 	(label "PWR1V8"
 		(at 428.244 135.636 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31188,7 +30885,6 @@
 	)
 	(label "DRAM_DQ12"
 		(at 337.82 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31199,7 +30895,6 @@
 	)
 	(label "CFG_MD2"
 		(at 27.94 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31210,7 +30905,6 @@
 	)
 	(label "VGA_HS_CONN"
 		(at 721.868 60.706 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31221,7 +30915,6 @@
 	)
 	(label "DRAM_A12"
 		(at 186.69 255.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31232,7 +30925,6 @@
 	)
 	(label "DRAM_BS0"
 		(at 241.3 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31243,7 +30935,6 @@
 	)
 	(label "VGA_B_CONN"
 		(at 721.868 48.006 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31254,7 +30945,6 @@
 	)
 	(label "JTAG_TDI"
 		(at 27.94 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31265,7 +30955,6 @@
 	)
 	(label "DRAM_LDQM"
 		(at 337.82 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31276,7 +30965,6 @@
 	)
 	(label "PWR1V8"
 		(at 532.13 195.072 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31287,7 +30975,6 @@
 	)
 	(label "PWR1V8"
 		(at 328.676 115.316 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31298,7 +30985,6 @@
 	)
 	(label "VGA_R3"
 		(at 602.996 48.514 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31309,7 +30995,6 @@
 	)
 	(label "PWR1V8"
 		(at 232.41 213.36 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31320,7 +31005,6 @@
 	)
 	(label "USB1_CONN_DP"
 		(at 238.76 547.624 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31331,7 +31015,6 @@
 	)
 	(label "DRAM_DQ4"
 		(at 337.82 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31342,7 +31025,6 @@
 	)
 	(label "AUDIO_RC"
 		(at 372.872 237.744 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31353,7 +31035,6 @@
 	)
 	(label "PWR5V0"
 		(at 687.578 374.142 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31364,7 +31045,6 @@
 	)
 	(label "RSPI_SS"
 		(at 109.22 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31375,7 +31055,6 @@
 	)
 	(label "VGA_R_CONN"
 		(at 652.526 40.132 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31386,7 +31065,6 @@
 	)
 	(label "SD_SS"
 		(at 248.412 421.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31397,7 +31075,6 @@
 	)
 	(label "JTAG_TDO"
 		(at 425.196 508 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31408,7 +31085,6 @@
 	)
 	(label "VDD_NB"
 		(at 146.812 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31419,7 +31095,6 @@
 	)
 	(label "CUSB2_DN"
 		(at 309.118 414.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31430,7 +31105,6 @@
 	)
 	(label "PWR1V0"
 		(at 463.55 452.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31441,7 +31115,6 @@
 	)
 	(label "VIDEO_D3"
 		(at 301.244 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31452,7 +31125,6 @@
 	)
 	(label "GND"
 		(at 787.908 253.746 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31463,7 +31135,6 @@
 	)
 	(label "CUSB2_DN"
 		(at 355.6 523.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31474,7 +31145,6 @@
 	)
 	(label "VGA_G3"
 		(at 602.996 65.024 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31485,7 +31155,6 @@
 	)
 	(label "PMOD_A1"
 		(at 300.99 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31496,7 +31165,6 @@
 	)
 	(label "VIDEO_C"
 		(at 401.32 225.806 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31507,7 +31175,6 @@
 	)
 	(label "PWR5V0"
 		(at 689.102 488.188 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31518,7 +31185,6 @@
 	)
 	(label "RP_QSPI_IO2"
 		(at 422.402 474.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31529,7 +31195,6 @@
 	)
 	(label "VBUSC"
 		(at 99.314 545.338 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31540,7 +31205,6 @@
 	)
 	(label "PMOD_A3"
 		(at 300.99 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31551,7 +31215,6 @@
 	)
 	(label "DRAM_DQ13"
 		(at 337.82 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31562,7 +31225,6 @@
 	)
 	(label "CUSB1_DP"
 		(at 309.372 416.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31573,7 +31235,6 @@
 	)
 	(label "RP_QSPI_IO0"
 		(at 535.5336 462.6356 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31584,7 +31245,6 @@
 	)
 	(label "RUART_TX"
 		(at 424.18 515.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31595,7 +31255,6 @@
 	)
 	(label "PMOD_A10C"
 		(at 784.352 251.206 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31606,7 +31265,6 @@
 	)
 	(label "GND"
 		(at 718.058 68.326 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31617,7 +31275,6 @@
 	)
 	(label "VGA_RED"
 		(at 629.92 40.132 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31628,7 +31285,6 @@
 	)
 	(label "DRAM_DQ6"
 		(at 337.82 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31639,7 +31295,6 @@
 	)
 	(label "DRAM_DQ6"
 		(at 238.252 247.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31650,7 +31305,6 @@
 	)
 	(label "VIDEO_D2"
 		(at 318.77 274.066 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31661,7 +31315,6 @@
 	)
 	(label "CUSB1_DN"
 		(at 309.118 419.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31672,7 +31325,6 @@
 	)
 	(label "DRAM_CS"
 		(at 186.69 265.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31683,7 +31335,6 @@
 	)
 	(label "DRAM_DQ15"
 		(at 238.252 270.51 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31694,7 +31345,6 @@
 	)
 	(label "DRAM_A11"
 		(at 186.69 252.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31705,7 +31355,6 @@
 	)
 	(label "RP_QSPI_IO0"
 		(at 422.148 469.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31716,7 +31365,6 @@
 	)
 	(label "USB1_CONN_DN"
 		(at 238.76 550.164 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31727,7 +31375,6 @@
 	)
 	(label "VGA_GREEN"
 		(at 629.412 56.642 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31738,7 +31385,6 @@
 	)
 	(label "RSPI_SS"
 		(at 426.72 528.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31749,7 +31395,6 @@
 	)
 	(label "USB2_DP"
 		(at 310.642 424.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31760,7 +31405,6 @@
 	)
 	(label "VGA_B3"
 		(at 602.996 84.074 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31771,7 +31415,6 @@
 	)
 	(label "CFAILED"
 		(at 51.816 265.43 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31782,7 +31425,6 @@
 	)
 	(label "VGA_VS"
 		(at 148.59 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31793,7 +31435,6 @@
 	)
 	(label "GND"
 		(at 27.94 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31804,7 +31445,6 @@
 	)
 	(label "CDONE"
 		(at 427.736 495.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31815,7 +31455,6 @@
 	)
 	(label "SD_MISO"
 		(at 724.408 168.148 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31826,7 +31465,6 @@
 	)
 	(label "USB_CONN_DN"
 		(at 100.838 552.958 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31837,7 +31475,6 @@
 	)
 	(label "DRAM_WE"
 		(at 396.494 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31848,7 +31485,6 @@
 	)
 	(label "PWR3V3"
 		(at 787.908 238.506 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31859,7 +31495,6 @@
 	)
 	(label "VDD_WB"
 		(at 467.36 26.67 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31870,7 +31505,6 @@
 	)
 	(label "RP_QSPI_IO1"
 		(at 422.402 472.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31881,7 +31515,6 @@
 	)
 	(label "CUSB2_DP"
 		(at 435.61 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31892,7 +31525,6 @@
 	)
 	(label "PWR5V0"
 		(at 688.848 430.276 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31903,7 +31535,6 @@
 	)
 	(label "GND"
 		(at 401.32 228.346 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31914,7 +31545,6 @@
 	)
 	(label "PWR3V3"
 		(at 222.504 403.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31925,7 +31555,6 @@
 	)
 	(label "VGA_B2"
 		(at 148.59 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31936,7 +31565,6 @@
 	)
 	(label "PWR3V3"
 		(at 704.088 138.938 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31947,7 +31575,6 @@
 	)
 	(label "CFG_MD2"
 		(at 425.45 492.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31958,7 +31585,6 @@
 	)
 	(label "RSPI_SCK"
 		(at 107.95 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31969,7 +31595,6 @@
 	)
 	(label "PMOD_A4C"
 		(at 785.622 233.426 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31980,7 +31605,6 @@
 	)
 	(label "AUDIO_LC"
 		(at 401.32 220.726 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31991,7 +31615,6 @@
 	)
 	(label "PWR2V5"
 		(at 117.348 101.092 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32002,7 +31625,6 @@
 	)
 	(label "JTAG_TDI"
 		(at 81.28 265.684 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32013,7 +31635,6 @@
 	)
 	(label "PWR1V1"
 		(at 142.24 388.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -58308,7 +57929,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1R"
+		(property "Value" "22R"
 			(at 105.283 386.842 0)
 			(effects
 				(font
@@ -61526,7 +61147,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "100nF"
 			(at 549.656 200.1519 0)
 			(effects
 				(font
