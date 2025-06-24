@@ -47,6 +47,10 @@ pico_set_program_version(dirtyJtag "0.1")
 #pico_enable_stdio_uart(dirtyJtag 0)
 #pico_enable_stdio_usb(dirtyJtag 0)
 
+target_compile_definitions(dirtyJtag PUBLIC
+   PICO_XOSC_STARTUP_DELAY_MULTIPLIER=64
+   )
+
 # Add the standard library to the build
 target_link_libraries(dirtyJtag PRIVATE pico_stdlib)
 
