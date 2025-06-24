@@ -17,7 +17,7 @@ module blink(
 	CC_PLL #(
 		.REF_CLK("48.0"),    // reference input in MHz
 		.OUT_CLK("100.0"),   // pll output frequency in MHz
-		.PERF_MD("ECONOMY"), // LOWPOWER, ECONOMY, SPEED
+		.PERF_MD("SPEED"), // LOWPOWER, ECONOMY, SPEED
 		.LOW_JITTER(1),      // 0: disable, 1: enable low jitter mode
 		.CI_FILTER_CONST(2), // optional CI filter constant
 		.CP_FILTER_CONST(4)  // optional CP filter constant

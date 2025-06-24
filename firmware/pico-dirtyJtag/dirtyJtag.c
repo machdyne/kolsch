@@ -34,17 +34,24 @@ void djtag_init()
     init_pins();
     init_jtag(&jtag, 1000, PIN_TCK, PIN_TDI, PIN_TDO, PIN_TMS, 255, 255);
 
-    gpio_init(15); // CRESET
-    gpio_init(16); // CDONE
-    gpio_init(17); // CFAILED
+    gpio_init(PIN_CFG_MD2);
+    gpio_init(PIN_CFG_MD3);
+    gpio_init(PIN_CRESET);
+    gpio_init(PIN_CDONE);
+    gpio_init(PIN_CFAILED);
 
-    gpio_set_dir(15, 1); // set CRESET as output
+    gpio_set_dir(PIN_CFG_MD2, 1); // set as output
+    gpio_set_dir(PIN_CFG_MD3, 1); // set as output
+    gpio_set_dir(PIN_CRESET, 1); // set as output
+
+    // enter JTAG mode
+    gpio_put(PIN_CFG_MD2, 1);
+    gpio_put(PIN_CFG_MD3, 1);
 
     // toggle CRESET
-    gpio_put(15, 1);
+    gpio_put(PIN_CRESET, 0);
     sleep_ms(250);
-    gpio_put(15, 0);
-    sleep_ms(250);
+    gpio_put(PIN_CRESET, 1);
 
 }
 typedef uint8_t cmd_buffer[64];

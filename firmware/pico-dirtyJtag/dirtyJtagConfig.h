@@ -122,14 +122,16 @@
 #define PIN_CDONE		16
 #define PIN_CFAILED	17
 #define PIN_CRESET	8
+#define PIN_CFG_MD2	15
+#define PIN_CFG_MD3	14
 
 #define LED_INVERTED   1
-#define PIN_LED_TX     2
+#define PIN_LED_TX     1
 #define PIN_LED_ERROR  2
-#define PIN_LED_RX     2
+#define PIN_LED_RX     3
 
 #if ( USB_CDC_UART_BRIDGE )
-#define PIN_UART       uart0
+#define PIN_UART       uart1
 #define PIN_UART_TX    24
 #define PIN_UART_RX    25
 #endif // USB_CDC_UART_BRIDGE
