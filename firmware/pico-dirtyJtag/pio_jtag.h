@@ -2,6 +2,7 @@
 #ifndef _PIO_JTAG_H
 #define _PIO_JTAG_H
 
+#include "pico/stdlib.h"
 #include "hardware/pio.h"
 
 typedef struct pio_jtag_inst {
@@ -37,8 +38,10 @@ static inline void jtag_set_tms(const pio_jtag_inst_t *jtag, bool value)
 }
 static inline void jtag_set_rst(const pio_jtag_inst_t *jtag, bool value)
 {
-    /* Change the direction to out to drive pin to 0 or to in to emulate open drain */
-    gpio_set_dir(jtag->pin_rst, !value);
+    // toggle CRESET
+    gpio_put(PIN_CRESET, 0);
+    sleep_ms(250);
+    gpio_put(PIN_CRESET, 1);
 }
 static inline void jtag_set_trst(const pio_jtag_inst_t *jtag, bool value)
 {

@@ -3,6 +3,7 @@
 #include "pico/binary_info.h"
 #include "hardware/pio.h"
 #include "pico/multicore.h"
+#include "dirtyJtagConfig.h"
 #include "pio_jtag.h"
 #include "bsp/board.h"
 #include "tusb.h"
@@ -12,7 +13,8 @@
 #include "hardware/structs/pll.h"
 #include "hardware/structs/clocks.h"
 
-#include "dirtyJtagConfig.h"
+#include "led.h"
+#include "cdc_uart.h"
 
 #define MULTICORE
 
